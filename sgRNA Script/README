@@ -1,0 +1,54 @@
+﻿USAGE:
+
+Overview:
+
+	This process is divided into two steps. First, sequence_finder_2.py must be run to 
+	generate all of the candidate sequences found in a genebank file. This will output the files 
+	results.csv and results.fasta. These files only contain the start position, strand and 
+	nucleotide sequences of each candidate.
+
+	Second, annotate-results.py is run to process results.csv and results.fasta. This script will 	annotate each file with a candidate's associated (nearest) gene's locus tag. Optionally, if the 	file locus_tags_to_filter.csv is present in this directory, only the results whose locus tags 	match the start gene of an operon which has a locus tag in the aforementioned csv file will be 	included. Additionally, any results which are part of an operon are excluded unless they appear 	within the first gene in the operon.
+
+	Note that both scripts will attempt to run using default values if any of the parameters are not 	entered.
+
+Step 1.
+
+	python3 sequence-finder-2.py <filename> <upstream offset> <downstream offset>
+
+	Input:
+		<filename>: The name of the genebank file (in this directory) which contains
+		the sequence to be searched.
+
+		<upstream offset>: How many base pairs upstream of the start of a gene we
+		will search for candidates.
+
+		<downstream offset>: How many base pairs downstream of the start of a gene
+		we will search for candidates.
+		
+		<max_repetition>: How many consecutive base pairs can be the same for a 
+		string to be included in the results. Ie. with max_repetition=4, accca
+		would be included but acccca would not.
+
+	Output:
+		results.csv:	csv file with the 20bp sequence + 35bp
+		results.fasta:	fasta file with the 20bp sequence + 83bp
+
+
+Step 2:
+
+	python3 annotate_results.py <doorfile> <csv_file> <fasta_file> <annotation_file> <discard_tags>
+
+	Input:
+		<doorfile>: Door file with operon information; expects .tabular format.
+		<csv_file>: Output of sequence-finder-2.py; defaults to results.csv.
+		<fasta_file>: Output of sequence-finder-2.py; defaults to results.fasta.
+		<annotation_file>: The genebank with locus tags (generally the same file used in sequence-finder-2.py).
+		<results_to_filter>: Optional; csv with locus tags to include or exclude from results.
+		<discard_tags>: If this argument is passed, then instead of keeping locus tags found
+				 in the provided .csv file, we will be excluding them. If you don't want
+				 this behaviour, then simply don't provide any value for this argument.
+	Output:
+		results-annotated.csv: Results filtered and annotated by locus tags/operons.
+		results-annotated.fasta: Results filtered and annotated by locus tags/operons.
+
+
