@@ -1,0 +1,441 @@
+sgRNA,COG,Gene,Old,KEGG,Cluster
+1422,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,1
+1420,L,DNA polymerase III subunit delta,DNA polymerase III subunit delta,DNA Replication,1
+1423,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,1
+1421,M,hypothetical protein,hypothetical protein,Others,1
+1974,K,type III pantothenate kinase,type III pantothenate kinase,Metabolic pathways,1
+1596,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Chromosome and associated proteins,1
+1558,O,protein GrpE,protein GrpE,,1
+1575,T,hypothetical protein,hypothetical protein,Others,1
+1570,T,universal stress protein A,universal stress protein A,Others,1
+1559,O,molecular chaperone GroES,molecular chaperone GroES,Chaperones and folding catalysts,1
+1572,Q,short-chain dehydrogenase,short-chain dehydrogenase,Others,1
+1577,E,urea transporter,urea transporter,Others,1
+1605,M,cell division protein,cell division protein,beta-Lactam resistance,1
+1591,D,chromosome partitioning protein,chromosome partitioning protein,Others,1
+1557,H,4-hydroxybenzoate polyprenyl transferase,4-hydroxybenzoate polyprenyl transferase,Biosynthesis of secondary metabolites,1
+1592,L,uracil-DNA glycosylase,uracil-DNA glycosylase,Base excision repair,1
+1556,S,iron--sulfur cluster insertion protein ErpA,iron--sulfur cluster insertion protein ErpA,Others,1
+1587,H,D-2-hydroxyacid dehydrogenase,D-2-hydroxyacid dehydrogenase,"Glycine, serine and threonine metabolism",1
+1555,J,50S ribosomal protein L13,50S ribosomal protein L13,Ribosome biogenesis,1
+1603,S,twitching motility protein PilT,twitching motility protein PilT,Others,1
+1576,S,transglycosylase,transglycosylase,Others,1
+1560,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,1
+1566,F,guanylate kinase,guanylate kinase,Purine metabolism,1
+1565,D,cell division topological specificity factor,cell division topological specificity factor,Chromosome and associated proteins,1
+1563,M,glycosyl transferase family 1,glycosyl transferase family 1,Lipopolysaccharide biosynthesis,1
+1581,K,LysR family transcriptional regulator,LysR family transcriptional regulator,,1
+1568,I,farnesyl-diphosphate farnesyltransferase,farnesyl-diphosphate farnesyltransferase,Biosynthesis of secondary metabolites/cofactors,1
+1562,G,phosphoglucomutase,phosphoglucomutase,Amino sugar and nucleotide sugar metabolism,1
+1593,H,glutamyl-tRNA reductase,glutamyl-tRNA reductase,Biosynthesis of secondary metabolites,1
+1582,M,0,,,3
+1574,H,uroporphyrin-III C-methyltransferase,uroporphyrin-III C-methyltransferase,Biosynthesis of secondary metabolites,1
+1561,M,"dTDP-glucose 4,6-dehydratase","dTDP-glucose 4,6-dehydratase",Acarbose and validamycin biosynthesis,1
+1588,P,sulfonate ABC transporter substrate-binding protein,sulfonate ABC transporter substrate-binding protein,ABC transporters,1
+1601,L,primosome assembly protein PriA,primosome assembly protein PriA,Homologous recombination,1
+1599,C,ATP synthase subunit b,ATP synthase subunit b,Metabolic pathways,1
+1598,C,F0F1 ATP synthase subunit C,F0F1 ATP synthase subunit C,Metabolic pathways,1
+1594,R,GTP-binding protein,GTP-binding protein,,1
+1567,K,DNA-directed RNA polymerase subunit omega,DNA-directed RNA polymerase subunit omega,Metabolic pathways,1
+1600,H,uroporphyrinogen decarboxylase,uroporphyrinogen decarboxylase,Biosynthesis of secondary metabolites/cofactors,1
+1676,J,glutaminyl-tRNA synthetase,glutaminyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,3
+1674,J,valyl-tRNA synthetase,valyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,1
+1597,C,ATP synthase subunit A,ATP synthase subunit A,Metabolic pathways,1
+1886,G,ribokinase,ribokinase,Pentose phosphate pathway,2
+1885,R,succinylglutamate desuccinylase/aspartoacylase,succinylglutamate desuccinylase/aspartoacylase,Others,2
+1670,Q,peptide ABC transporter ATP-binding protein,peptide ABC transporter ATP-binding protein,ABC transporters,2
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1452,J,tryptophanyl-tRNA synthetase,tryptophanyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,3
+1488,F,adenylosuccinate lyase,adenylosuccinate lyase,adenosine ribonucleotides <i>de novo</i> biosynthesis,3
+1667,R,RNA chaperone Hfq,RNA chaperone Hfq,RNA degradation,1
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1890,L,initiator RepB protein,initiator RepB protein,Others,2
+1518,G,ribokinase,ribokinase,Others,2
+1889,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,,3
+1451,J,proline--tRNA ligase,proline--tRNA ligase,Aminoacyl-tRNA biosynthesis,3
+1897,J,2'-5' RNA ligase,2'-5' RNA ligase,Others,2
+1443,K,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,Others,1
+1896,U,preprotein translocase subunit TatC,preprotein translocase subunit TatC,Bacterial secretion system,2
+1677,L,DNA polymerase III subunit epsilon,DNA polymerase III subunit epsilon,DNA Replication,3
+1470,F,uridylate kinase,uridylate kinase,Metabolic pathways,3
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",1
+2079,M,UDP-glucose 6-dehydrogenase,UDP-glucose 6-dehydrogenase,,3
+1529,E,chorismate synthase,chorismate synthase,Biosynthesis of amino acids,2
+1413,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,1
+1642,U,preprotein translocase subunit SecG,preprotein translocase subunit SecG,Bacterial secretion system,3
+1519,G,ribokinase,ribokinase,Others,2
+1522,T,diguanylate cyclase,diguanylate cyclase,Others,2
+1470,F,uridylate kinase,uridylate kinase,Metabolic pathways,3
+1539,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,2
+1894,J,prfA,prfA,Others,2
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,2
+2014,H,bifunctional protein FolD,bifunctional protein FolD,Carbon fixation pathways in prokaryotes,3
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,2
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1530,E,chorismate synthase,chorismate synthase,Biosynthesis of amino acids,1
+1415,L,DNA topoisomerase IV subunit A,DNA topoisomerase IV subunit A,DNA Replication,2
+1506,L,DNA topoisomerase IV subunit B,DNA topoisomerase IV subunit B,Others,2
+1513,H,delta-aminolevulinic acid dehydratase,delta-aminolevulinic acid dehydratase,Biosynthesis of secondary metabolites,2
+1479,R,obgE,obgE,Ribosome biogenesis biogenesis,2
+1665,I,ispG,ispG,Biosynthesis of antibiotics,1
+1517,J,50S ribosomal protein L15,50S ribosomal protein L15,Ribosome biogenesis,3
+1535,F,thyA,thyA,folate transformations II,2
+1528,H,"glutamate-1-semialdehyde 2,1-aminomutase","glutamate-1-semialdehyde 2,1-aminomutase",Biosynthesis of secondary metabolites,2
+1424,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,1
+1986,H,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,Biosynthesis of secondary metabolites,2
+1512,H,porphobilinogen deaminase,porphobilinogen deaminase,,3
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,1
+1620,S,hypothetical protein,hypothetical protein,Others,2
+2082,F,cytidylate kinase,cytidylate kinase,,3
+1682,H,ubiquinone biosynthesis O-methyltransferase,ubiquinone biosynthesis O-methyltransferase,Biosynthesis of secondary metabolites,3
+1844,M,acetyltransferase,acetyltransferase,Others,2
+1353,L,gyrB,gyrB,DNA Replication,3
+1508,H,glutamyl-tRNA reductase,glutamyl-tRNA reductase,Biosynthesis of secondary metabolites,2
+1635,M,ispH,ispH,Biosynthesis of antibiotics,1
+1680,J,elongation factor P,elongation factor P,Others,3
+1634,P,superoxide dismutase,superoxide dismutase,,2
+1509,E,0,0,Others,2
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1480,U,signal recognition particle protein,signal recognition particle protein,Bacterial secretion system,3
+1536,F,thyA,thyA,folate transformations II,2
+1484,H,thiamine monophosphate kinase,thiamine monophosphate kinase,Metabolic pathways,1
+1527,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,Metabolic pathways,2
+1653,O,tRNA threonylcarbamoyl adenosine modification protein YeaZ,tRNA threonylcarbamoyl adenosine modification protein YeaZ,Others,1
+1511,H,porphobilinogen deaminase,porphobilinogen deaminase,Biosynthesis of secondary metabolites,2
+1666,R,ribosome-associated GTPase EngA,ribosome-associated GTPase EngA,Others,1
+1417,L,DNA topoisomerase IV subunit A,DNA topoisomerase IV subunit A,DNA Replication,2
+1623,G,PTS fructose transporter subunit IIA,PTS fructose transporter subunit IIA,Ascorbate and aldarate metabolism,1
+1633,R,membrane protein,membrane protein,Peptidoglycan biosynthesis,2
+2078,E,cysteine synthase,cysteine synthase,Biosynthesis of amino acids,3
+1629,J,translation factor Sua5,translation factor Sua5,Others,1
+1488,F,adenylosuccinate lyase,adenylosuccinate lyase,adenosine ribonucleotides <i>de novo</i> biosynthesis,3
+1537,F,thyA,thyA,folate transformations II,2
+1834,C,0,,Others,2
+1407,K,0,0,Metabolic pathways,3
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,1
+1658,I,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,Biosynthesis of antibiotics,2
+1619,H,S-adenosylmethionine synthase,S-adenosylmethionine synthase,2'-deoxymugineic acid phytosiderophore biosynthesis,1
+1481,F,ribonucleoside-diphosphate reductase subunit alpha,ribonucleoside-diphosphate reductase subunit alpha,adenosine deoxyribonucleotides de novo biosynthesis,3
+1900,J,50S ribosomal protein L17,50S ribosomal protein L17,Ribosome biogenesis,3
+1636,R,permease,permease,ABC transporters,1
+2081,J,rpsA,rpsA,Ribosome biogenesis,2
+1671,T,LexA repressor,LexA repressor,Others,1
+1905,U,secY,secY,Bacterial secretion system,1
+1569,K,MarR family transcriptional regulator,MarR family transcriptional regulator,Others,3
+1613,K,MarR family transcriptional regulator,MarR family transcriptional regulator,Others,2
+1607,K,LysR family transcriptional regulator,LysR family transcriptional regulator,Others,2
+1913,L,DNA-binding protein HU-alpha,DNA-binding protein HU-alpha,DNA replication,2
+1622,M,"bifunctional protein RfaE, domain II","bifunctional protein RfaE, domain II",Lipopolysaccharide biosynthesis,2
+1627,R,ubiquinone biosynthesis protein UbiB,ubiquinone biosynthesis protein UbiB,Biosynthesis of secondary metabolites,1
+1419,M,hypothetical protein,hypothetical protein,Others,3
+1987,H,pdxA,pdxA,Metabolic pathways,1
+1655,L,ligA,ligA,Base excision repair,1
+2053,J,alanine--tRNA ligase,alanine--tRNA ligase,Aminoacyl-tRNA biosynthesis,2
+1485,G,transketolase,transketolase,Biosynthesis of amino acids,2
+1651,E,aspartate kinase,aspartate kinase,2-Oxocarboxylic acid metabolism,1
+2001,J,rpmB,rpmB,Ribosome biogenesis,2
+1644,C,NADH-quinone oxidoreductase subunit B,NADH-quinone oxidoreductase subunit B,Metabolic pathways,1
+1860,C,dihydrofolate reductase,dihydrofolate reductase,Others,2
+2069,Q,fabG,fabG,(5Z)-dodecenoate biosynthesis II,2
+1975,K,type III pantothenate kinase,type III pantothenate kinase,Metabolic pathways,2
+1654,D,chromosome partitioning protein Smc,chromosome partitioning protein Smc,Others,2
+1965,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,2
+2009,I,CDP-diacylglycerol--serine O-phosphatidyltransferase,CDP-diacylglycerol--serine O-phosphatidyltransferase,Glycerophospholipid metabolism,2
+2068,I,acyl carrier protein,acyl carrier protein,,3
+1485,G,transketolase,transketolase,Biosynthesis of amino acids,2
+1611,K,AraC family transcriptional regulator,AraC family transcriptional regulator,Others,2
+1625,H,phosphopantetheine adenylyltransferase,phosphopantetheine adenylyltransferase,Metabolic pathways,1
+1652,J,glutamate--tRNA ligase,glutamate--tRNA ligase,Aminoacyl-tRNA biosynthesis,3
+1624,S,recombinase RecA,recombinase RecA,Others,2
+1856,I,acetyl-CoA acetyltransferase,acetyl-CoA acetyltransferase,Benzoate degradation,2
+1640,M,heptosyltransferase,heptosyltransferase,Others,2
+1977,K,DNA-directed RNA polymerase sigma-70 factor,DNA-directed RNA polymerase sigma-70 factor,Others,3
+1639,C,inorganic pyrophosphatase,inorganic pyrophosphatase,Oxidative phosphorylation,2
+1612,R,4-oxalocrotonate tautomerase,4-oxalocrotonate tautomerase,Others,2
+1507,H,glutamyl-tRNA reductase,glutamyl-tRNA reductase,Biosynthesis of secondary metabolites,2
+1637,M,diacylglyceryl transferase,diacylglyceryl transferase,lipoprotein posttranslational modification,2
+1579,K,LysR family transcriptional regulator,LysR family transcriptional regulator,Others,2
+1672,F,dihydroorotate dehydrogenase,dihydroorotate dehydrogenase,Metabolic pathways,2
+1516,U,secY,secY,Bacterial secretion system,3
+2012,C,"NADH oxidoreductase (quinone), F subunit","NADH oxidoreductase (quinone), F subunit",,3
+1481,F,ribonucleoside-diphosphate reductase subunit alpha,ribonucleoside-diphosphate reductase subunit alpha,adenosine deoxyribonucleotides de novo biosynthesis,1
+1679,S,hypothetical protein,hypothetical protein,Others,2
+1650,F,pyrG,pyrG,Metabolic pathways,2
+1660,J,30S ribosomal protein S6,30S ribosomal protein S6,,2
+1510,E,0,0,Others,2
+1616,S,membrane protein,membrane protein,Others,2
+2067,Q,3-oxoacyl-ACP synthase,3-oxoacyl-ACP synthase,Biotin metabolism,2
+2043,U,multidrug transporter,multidrug transporter,beta-Lactam resistance,2
+1645,C,NADH dehydrogenase subunit E,NADH dehydrogenase subunit E,Metabolic pathways,1
+1538,D,cell wall shape-determining protein,cell wall shape-determining protein,Peptidoglycan biosynthesis,2
+1626,L,single-stranded DNA-binding protein,single-stranded DNA-binding protein,DNA Replication,2
+1647,C,Fe-S cluster assembly scaffold IscU,Fe-S cluster assembly scaffold IscU,,3
+1973,J,argS,argS,,3
+1643,C,NADH-quinone oxidoreductase subunit A,NADH-quinone oxidoreductase subunit A,Metabolic pathways,1
+2058,P,iron dicitrate transporter FecR,iron dicitrate transporter FecR,Others,2
+1661,L,DNA helicase,DNA helicase,DNA Replication,1
+1351,L,gyrB,gyrB,DNA Replication,1
+2070,J,rpmF,rpmF,Ribosome biogenesis,2
+1425,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,3
+1899,J,50S ribosomal protein L17,50S ribosomal protein L17,,3
+1641,I,phosphatidylserine decarboxylase proenzyme,phosphatidylserine decarboxylase proenzyme,Glycerophospholipid metabolism,1
+1365,C,ATP synthase subunit delta,ATP synthase subunit delta,Metabolic pathways,1
+1945,C,alcohol dehydrogenase,alcohol dehydrogenase,Others,2
+1411,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,1
+1901,K,DNA-directed RNA polymerase subunit alpha,DNA-directed RNA polymerase subunit alpha,Metabolic pathways,2
+1520,H,lipoyl(octanoyl) transferase,lipoyl(octanoyl) transferase,lipoate biosynthesis and incorporation (yeast),2
+1470,F,uridylate kinase,uridylate kinase,Metabolic pathways,3
+1662,E,threonine synthase,threonine synthase,Biosynthesis of amino acids,2
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,2
+1994,M,N-acetylmuramoyl-L-alanine amidase,N-acetylmuramoyl-L-alanine amidase,Others,2
+1609,O,tRNA N6-adenosine threonylcarbamoyltransferase,tRNA N6-adenosine threonylcarbamoyltransferase,Others,2
+1659,O,peptidase,peptidase,Others,1
+1906,J,50S ribosomal protein L29,50S ribosomal protein L29,Ribosome biogenesis,2
+1526,E,glutamate 5-kinase,glutamate 5-kinase,Arginine and proline metabolism,3
+1938,L,DNA primase,DNA primase,DNA Replication,2
+1515,H,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,Biosynthesis of secondary metabolites,1
+1485,G,transketolase,transketolase,Biosynthesis of amino acids,2
+1621,P,copper homeostasis protein CutC,copper homeostasis protein CutC,Others,2
+1995,J,30S ribosomal protein S20,30S ribosomal protein S20,Ribosome biogenesis,2
+2005,L,DNA topoisomerase IV subunit A,DNA topoisomerase IV subunit A,Others,3
+1657,F,guaA,guaA,Drug metabolism - other enzymes,1
+1939,I,1-deoxy-D-xylulose-5-phosphate synthase,1-deoxy-D-xylulose-5-phosphate synthase,Biosynthesis of antibiotics,2
+1979,J,peptidyl-tRNA hydrolase,peptidyl-tRNA hydrolase,Others,2
+1414,L,DNA topoisomerase IV subunit B,DNA topoisomerase IV subunit B,DNA Replication,2
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1951,S,RND transporter MFP subunit,RND transporter MFP subunit,,3
+1950,S,RND transporter,RND transporter,Others,2
+1983,T,HPr kinase/phosphorylase,HPr kinase/phosphorylase,Others,3
+1912,J,50S ribosomal protein L1,50S ribosomal protein L1,Ribosome biogenesis,2
+2015,S,iscA,iscA,Others,1
+1956,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Others,3
+1355,L,gyrB,gyrB,DNA Replication,3
+1484,H,thiamine monophosphate kinase,thiamine monophosphate kinase,Metabolic pathways,1
+1991,M,ADP-heptose--LPS heptosyltransferase,ADP-heptose--LPS heptosyltransferase,Lipopolysaccharide biosynthesis,2
+1969,C,ferredoxin--NADP reductase,ferredoxin--NADP reductase,Photosynthesis,3
+1404,K,0,0,Metabolic pathways,3
+1486,S,membrane protein,membrane protein,Biosynthesis of secondary metabolites/cofactors,3
+1618,T,XRE family transcriptional regulator,XRE family transcriptional regulator,Others,2
+1649,M,cell division protein FtsX,cell division protein FtsX,ABC transporters,1
+1664,F,nucleoside diphosphate kinase,nucleoside diphosphate kinase,Biosynthesis of antibiotics,3
+1483,E,aroE,aroE,Biosynthesis of amino acids,2
+1366,C,ATP synthase subunit alpha,ATP synthase subunit alpha,ATP biosynthesis,3
+1675,M,UTP--glucose-1-phosphate uridylyltransferase,UTP--glucose-1-phosphate uridylyltransferase,Amino sugar and nucleotide sugar metabolism,3
+1902,J,30S ribosomal protein S4,30S ribosomal protein S4,Ribosome biogenesis,2
+1663,L,DNA polymerase III subunit gamma/tau,DNA polymerase III subunit gamma/tau,DNA Replication,1
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1992,H,pyridoxine/pyridoxamine 5'-phosphate oxidase,pyridoxine/pyridoxamine 5'-phosphate oxidase,4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast),2
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1943,G,3-beta hydroxysteroid dehydrogenase,3-beta hydroxysteroid dehydrogenase,Others,2
+2066,U,signal peptidase,signal peptidase,Protein export,2
+2044,G,ribose-5-phosphate isomerase A,ribose-5-phosphate isomerase A,Biosynthesis of amino acids,2
+1363,C,F0F1 ATP synthase subunit C,F0F1 ATP synthase subunit C,Metabolic pathways,3
+1638,F,dcd,dcd,,3
+1416,L,DNA topoisomerase IV subunit B,DNA topoisomerase IV subunit B,DNA Replication,2
+1898,E,3-dehydroquinate synthase,3-dehydroquinate synthase,3-dehydroquinate biosynthesis I,2
+1831,L,0,,Others,2
+1978,U,cell division protein FtsY,cell division protein FtsY,Bacterial secretion system,2
+1405,K,DNA-directed RNA polymerase subunit beta',DNA-directed RNA polymerase subunit beta',Metabolic pathways,3
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",1
+1970,R,glutamine amidotransferase,glutamine amidotransferase,Others,2
+1483,E,aroE,aroE,Biosynthesis of amino acids,2
+2011,C,"NADH oxidoreductase (quinone), F subunit","NADH oxidoreductase (quinone), F subunit",Metabolic pathways,3
+1487,G,2-dehydro-3-deoxyphosphogluconate aldolase,2-dehydro-3-deoxyphosphogluconate aldolase,"3,6-anhydro-&alpha;-L-galactopyranose degradation",3
+1963,M,rod shape-determining protein MreD,rod shape-determining protein MreD,Others,2
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,1
+1646,E,glnA,glnA,"Alanine, aspartate and glutamate metabolism",2
+1957,R,KR domain protein,KR domain protein,Others,2
+2072,P,sodium:proton antiporter,sodium:proton antiporter,Others,2
+1362,C,ATP synthase subunit A,ATP synthase subunit A,Metabolic pathways,3
+1354,L,gyrB,gyrB,DNA Replication,2
+1396,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Chromosome and associated proteins,2
+1998,S,hypothetical protein,hypothetical protein,Others,2
+1350,L,gyrB,gyrB,DNA Replication,3
+1839,H,panB,panB,Biosynthesis of secondary metabolites,2
+1934,C,sdhB,sdhB,Biosynthesis of antibiotics,2
+2032,F,tmk,tmk,,1
+1468,F,inosine-5-monophosphate dehydrogenase,inosine-5-monophosphate dehydrogenase,adenosine nucleotides degradation I,1
+1883,I,FMN-dependent NADH-azoreductase,FMN-dependent NADH-azoreductase,Others,2
+1997,M,3-deoxy-manno-octulosonate cytidylyltransferase,3-deoxy-manno-octulosonate cytidylyltransferase,CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis,2
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1841,O,groEL,groEL,RNA degradation,2
+1960,S,trans-2-enoyl-CoA reductase,trans-2-enoyl-CoA reductase,(5Z)-dodecenoate biosynthesis II,2
+1910,J,30S ribosomal protein S12,30S ribosomal protein S12,Ribosome biogenesis,2
+1940,T,exopolysaccharide biosynthesis protein,exopolysaccharide biosynthesis protein,Others,2
+1449,J,aspartate--tRNA(Asp/Asn) ligase,aspartate--tRNA(Asp/Asn) ligase,Aminoacyl-tRNA biosynthesis,1
+1967,M,lauroyl acyltransferase,lauroyl acyltransferase,Lipopolysaccharide biosynthesis,2
+2064,I,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,cardiolipin biosynthesis I,2
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,2
+2013,U,transporter MotA/TolQ/ExbB proton channel familyprotein,transporter MotA/TolQ/ExbB proton channel familyprotein,Others,2
+1840,O,groEL,groEL,RNA degradation,3
+1835,U,preprotein translocase subunit SecD,preprotein translocase subunit SecD,Others,1
+1352,L,gyrB,gyrB,DNA Replication,3
+2007,V,ATP-binding protein,ATP-binding protein,,1
+1486,S,membrane protein,membrane protein,Biosynthesis of secondary metabolites/cofactors,3
+2016,J,lysine--tRNA ligase,lysine--tRNA ligase,Aminoacyl-tRNA biosynthesis,2
+1453,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,2
+1488,F,adenylosuccinate lyase,adenylosuccinate lyase,adenosine ribonucleotides <i>de novo</i> biosynthesis,3
+2006,R,hypothetical protein,hypothetical protein,Others,2
+1871,C,drug:proton antiporter,drug:proton antiporter,Others,2
+1914,C,ATP synthase subunit delta,ATP synthase subunit delta,Metabolic pathways,1
+1850,P,sulfonate ABC transporter substrate-binding protein,sulfonate ABC transporter substrate-binding protein,Others,2
+1832,L,0,,Others,2
+1384,C,NADH dehydrogenase,NADH dehydrogenase,Others,3
+2020,S,"UDP-2,3-diacylglucosamine hydrolase","UDP-2,3-diacylglucosamine hydrolase",Lipopolysaccharide biosynthesis,2
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1928,S,sporulation protein,sporulation protein,,3
+1959,G,N-acylglucosamine 2-epimerase,N-acylglucosamine 2-epimerase,Amino sugar and nucleotide sugar metabolism,2
+1408,K,0,0,Metabolic pathways,3
+1406,K,0,0,Metabolic pathways,3
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1985,R,ABC transporter,ABC transporter,ABC transporters,3
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",1
+1865,I,3-oxoacyl-ACP reductase,3-oxoacyl-ACP reductase,Biosynthesis of unsaturated fatty acids,2
+2054,S,hypothetical protein,hypothetical protein,Others,2
+1845,M,3-deoxy-D-manno-octulosonic acid transferase,3-deoxy-D-manno-octulosonic acid transferase,Lipopolysaccharide biosynthesis,2
+1398,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Chromosome and associated proteins,3
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,2
+1838,O,0,,Others,3
+1367,C,ATP synthase subunit gamma,ATP synthase subunit gamma,ATP biosynthesis,3
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,2
+1454,I,acetyl-CoA carboxylase carboxyltransferase subunit alpha,acetyl-CoA carboxylase carboxyltransferase subunit alpha,Biosynthesis of antibiotics,3
+1849,E,lysine transporter LysE,lysine transporter LysE,Others,2
+1829,J,0,,Others,3
+1847,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,Metabolic pathways,2
+1980,E,ribose-phosphate diphosphokinase,ribose-phosphate diphosphokinase,Biosynthesis of amino acids,2
+2019,J,tryptophanyl-tRNA synthetase,tryptophanyl-tRNA synthetase,,1
+1852,I,3-alpha-hydroxysteroid dehydrogenase,3-alpha-hydroxysteroid dehydrogenase,Metabolic pathways,2
+1486,S,membrane protein,membrane protein,Biosynthesis of secondary metabolites/cofactors,3
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,1
+1996,F,adenylate kinase,adenylate kinase,Biosynthesis of antibiotics,2
+1932,K,AsnC family transcriptional regulator,AsnC family transcriptional regulator,Others,2
+1412,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,3
+2003,H,pantothenate synthetase,pantothenate synthetase,beta-Alanine metabolism,2
+1930,I,acetyl-CoA carboxylase carboxyltransferase subunit beta,acetyl-CoA carboxylase carboxyltransferase subunit beta,3-hydroxypropanoate cycle,3
+1988,E,"D,D-heptose 1,7-bisphosphate phosphatase","D,D-heptose 1,7-bisphosphate phosphatase",,3
+2026,E,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase","2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",Biosynthesis of amino acids,3
+1878,G,sugar ABC transporter,sugar ABC transporter,ABC transporters,2
+1911,J,rplL,rplL,Ribosome biogenesis,2
+2061,G,glmM,glmM,Amino sugar and nucleotide sugar metabolism,2
+1976,H,lipoyl synthase,lipoyl synthase,lipoate biosynthesis and incorporation (yeast),1
+1410,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,2
+1869,K,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,,2
+1863,M,porin,porin,Others,2
+1933,C,sdhB,sdhB,Biosynthesis of antibiotics,2
+1944,T,LuxR family transcriptional regulator,LuxR family transcriptional regulator,Others,2
+1389,C,NADH dehydrogenase,NADH dehydrogenase,Others,2
+1514,H,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,Biosynthesis of secondary metabolites,2
+1947,P,rhodanese,rhodanese,Others,2
+2022,L,DNA polymerase,DNA polymerase,Others,1
+1931,E,aspartate-semialdehyde dehydrogenase,aspartate-semialdehyde dehydrogenase,2-Oxocarboxylic acid metabolism,2
+1462,O,thioredoxin reductase,thioredoxin reductase,Pyrimidine metabolism,1
+1843,M,"dTDP-4-dehydrorhamnose 3,5-epimerase","dTDP-4-dehydrorhamnose 3,5-epimerase",Biosynthesis of secondary metabolites/cofactors,2
+1999,H,phosphopantothenate synthase,phosphopantothenate synthase,Metabolic pathways,2
+1418,J,leuS,leuS,Aminoacyl-tRNA biosynthesis,2
+1842,M,glucose-1-phosphate thymidylyltransferase,glucose-1-phosphate thymidylyltransferase,Acarbose and validamycin biosynthesis,3
+2021,D,tRNA(Ile)-lysidine synthetase,tRNA(Ile)-lysidine synthetase,Others,1
+2004,S,segregation and condensation protein A,segregation and condensation protein A,Others,2
+1864,Q,cysteine hydrolase,cysteine hydrolase,Others,2
+2063,E,N-succinylarginine dihydrolase,N-succinylarginine dihydrolase,Arginine and proline metabolism,2
+1908,J,fusA,fusA,Translation factors,2
+2045,C,dihydrolipoamide succinyltransferase,dihydrolipoamide succinyltransferase,2-oxoglutarate decarboxylation to succinyl-CoA,2
+1364,C,ATP synthase subunit b,ATP synthase subunit b,,3
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1936,J,aminoglycoside phosphotransferase APH(3'),aminoglycoside phosphotransferase APH(3'),Others,2
+1481,F,ribonucleoside-diphosphate reductase subunit alpha,ribonucleoside-diphosphate reductase subunit alpha,adenosine deoxyribonucleotides de novo biosynthesis,1
+1907,J,50S ribosomal protein L29,50S ribosomal protein L29,Ribosome biogenesis,3
+1846,K,N utilization substance protein B homolog,N utilization substance protein B homolog,Others,1
+1929,H,folylpolyglutamate synthase,folylpolyglutamate synthase,Folate biosynthesis,2
+1648,O,hscB,hscB,Others,1
+1464,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,3
+1391,C,NADH dehydrogenase,NADH dehydrogenase,Others,2
+1457,F,uridylate kinase,uridylate kinase,Metabolic pathways,1
+1922,E,4-hydroxyproline 2-epimerase,4-hydroxyproline 2-epimerase,Arginine and proline metabolism,2
+1866,I,3-oxoacyl-ACP reductase,3-oxoacyl-ACP reductase,Biosynthesis of unsaturated fatty acids,2
+2047,J,phenylalanyl-tRNA synthetase subunit beta,phenylalanyl-tRNA synthetase subunit beta,Aminoacyl-tRNA biosynthesis,2
+1903,J,30S ribosomal protein S11,30S ribosomal protein S11,Ribosome biogenesis,2
+1456,L,DNA topoisomerase III,DNA topoisomerase III,DNA Replication,1
+1837,G,0,,Others,3
+1473,M,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosaminedeacetylase,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosaminedeacetylase,Lipopolysaccharide biosynthesis,2
+2031,R,folate-binding protein,folate-binding protein,Others,2
+1385,C,NADH dehydrogenase,NADH dehydrogenase,Others,2
+1989,E,"D,D-heptose 1,7-bisphosphate phosphatase","D,D-heptose 1,7-bisphosphate phosphatase",Lipopolysaccharide biosynthesis,3
+1483,E,aroE,aroE,Biosynthesis of amino acids,2
+1472,H,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase","2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase",,2
+1388,C,NADH dehydrogenase,NADH dehydrogenase,Others,2
+1937,K,0,,Others,2
+1836,U,preprotein translocase subunit SecD,preprotein translocase subunit SecD,Others,3
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+2002,R,permease,permease,,2
+2027,J,ribosome-recycling factor,ribosome-recycling factor,Others,1
+1993,M,N-acetylmuramoyl-L-alanine amidase,N-acetylmuramoyl-L-alanine amidase,Others,2
+2028,J,ribosome-recycling factor,ribosome-recycling factor,Others,1
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,2
+1919,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Others,3
+1397,D,chromosome partitioning protein ParA,chromosome partitioning protein ParA,Chromosome and associated proteins,2
+1484,H,thiamine monophosphate kinase,thiamine monophosphate kinase,Metabolic pathways,1
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1399,D,chromosome partitioning protein ParA,chromosome partitioning protein ParA,Chromosome and associated proteins,3
+2051,L,DNA-dependent helicase,DNA-dependent helicase,Mismatch repair,2
+2046,L,integration host factor subunit alpha,integration host factor subunit alpha,Others,2
+2033,L,primosomal replication protein N,primosomal replication protein N,,2
+2034,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,2
+1390,C,NADH dehydrogenase,NADH dehydrogenase,Others,2
+1971,H,diguanylate cyclase,diguanylate cyclase,6-hydroxymethyl-dihydropterin diphosphate biosynthesis I,2
+1881,U,pilus assembly protein,pilus assembly protein,Others,2
+2029,I,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase","2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",Biosynthesis of antibiotics,1
+2062,L,"exodeoxyribonuclease V, gamma subunit","exodeoxyribonuclease V, gamma subunit",Homologous recombination,2
+2030,D,intracellular septation protein A,intracellular septation protein A,Others,2
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,2
+1482,I,acetyl-CoA carboxylase biotin carboxylase,acetyl-CoA carboxylase biotin carboxylase,Fatty acid biosynthesis,1
+1487,G,2-dehydro-3-deoxyphosphogluconate aldolase,2-dehydro-3-deoxyphosphogluconate aldolase,"3,6-anhydro-&alpha;-L-galactopyranose degradation",3
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1904,U,secY,secY,Bacterial secretion system,2
+1455,F,tmk,tmk,Metabolic pathways,1
+2038,O,thioredoxin,thioredoxin,Others,2
+1833,C,0,,Others,2
+1964,D,rod shape-determining protein MreB,rod shape-determining protein MreB,Others,2
+1830,J,0,,Others,3
+1465,J,glutamyl-tRNA(Gln) amidotransferase subunit A,glutamyl-tRNA(Gln) amidotransferase subunit A,Aminoacyl-tRNA biosynthesis,1
+1458,R,obgE,obgE,Ribosome biogenesis biogenesis,1
+2037,K,rho,rho,RNA degradation,2
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1909,J,30S ribosomal protein S7,30S ribosomal protein S7,Ribosome biogenesis,2
+1656,J,elongation factor Ts,elongation factor Ts,Others,1
+1460,E,chorismate synthase,chorismate synthase,Biosynthesis of amino acids,1
+1472,H,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase","2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase",,2
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",1
+2035,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,2
+1892,M,hypothetical protein,hypothetical protein,Others,2
+1466,M,bifunctional protein GlmU,bifunctional protein GlmU,Amino sugar and nucleotide sugar metabolism,3
+1461,H,ferrochelatase,ferrochelatase,,3
+1467,J,tyrosyl-tRNA synthetase,tyrosyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,1
+1918,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Others,2
+1873,E,sarcosine oxidase delta subunit family protein,sarcosine oxidase delta subunit family protein,creatinine degradation II,2
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,2
+1879,G,xylose isomerase,xylose isomerase,Fructose and mannose metabolism,2
+2052,O,transcriptional regulator,transcriptional regulator,Others,2
+1532,H,"glutamate-1-semialdehyde 2,1-aminomutase","glutamate-1-semialdehyde 2,1-aminomutase",Biosynthesis of secondary metabolites,2
+1848,P,ABC transporter,ABC transporter,Sulfur metabolism,2
+1887,G,ribokinase,ribokinase,Pentose phosphate pathway,2
+1459,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,Metabolic pathways,1
+1895,O,glutathione S-transferase,glutathione S-transferase,Others,2
+1888,E,eutB,eutB,Biosynthesis of amino acids,2
+2040,R,competence protein ComL,competence protein ComL,Others,2
+2059,S,hypothetical protein,hypothetical protein,Others,2
+1469,F,thyA,thyA,folate transformations II,2
+1433,H,porphobilinogen deaminase,porphobilinogen deaminase,,2
+1893,C,ubiquinone biosynthesis hydroxylase UbiH,ubiquinone biosynthesis hydroxylase UbiH,Others,2
+2048,J,rplT,rplT,Ribosome biogenesis,2
+1463,M,UDP phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,UDP phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,Others,1
+1443,K,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,Others,1
+1531,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,,2
+1533,O,thioredoxin reductase,thioredoxin reductase,Pyrimidine metabolism,2
+1521,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,2
+1525,R,obgE,obgE,,3
+1564,J,serine--tRNA ligase,serine--tRNA ligase,Aminoacyl-tRNA biosynthesis,1
+2017,V,ABC transporter ATP-binding protein,ABC transporter ATP-binding protein,ABC transporters,1
+1524,L,DNA polymerase III subunit delta',DNA polymerase III subunit delta',DNA Replication,1
+2018,M,2-dehydro-3-deoxyphosphooctonate aldolase,2-dehydro-3-deoxyphosphooctonate aldolase,CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis,1
+1523,T,diguanylate cyclase,diguanylate cyclase,Others,1
+1534,O,thioredoxin reductase,thioredoxin reductase,Pyrimidine metabolism,1

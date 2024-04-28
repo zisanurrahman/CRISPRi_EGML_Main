@@ -1,0 +1,516 @@
+sgRNA,COG,Gene,Old,KEGG,mumax_minusRha,Gen Time,Depletion_per,mumax_plusRha,Lag Time,Predicted_Depletion_per
+1422,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,0.790519,38.07625117,100,0.05393449,17,94.94664177679995
+1420,L,DNA polymerase III subunit delta,DNA polymerase III subunit delta,DNA Replication,0.7570404,10.5353778,39.36567164,0.021951276,5,53.380215483200026
+1423,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,0.79603142,10.16783962,82.1045194,0.017885677,24,80.54107287669991
+1421,M,hypothetical protein,hypothetical protein,Others,0.740321217,7.465052456,97.52956433,0.030302049,24,89.66169312179987
+1578,,hypothetical protein,hypothetical protein,Others,0.79439164,1.677448742,55.16853933,0.109257637,12.61345928,65.15627217450006
+1974,K,type III pantothenate kinase,type III pantothenate kinase,Metabolic pathways,0.7812298,1.660874757,47.27102333,0.2775376,11.44843062,62.192230115900045
+1596,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Chromosome and associated proteins,0.781974134,1.654081233,17.07264028,0.125502833,17.62731471,36.30248327790003
+1558,O,protein GrpE,protein GrpE,,0.783334989,1.641803355,100,0.159879623,10.58021431,81.24304868444001
+1575,T,hypothetical protein,hypothetical protein,Others,0.787822391,1.602577831,0,0.118038768,10.17988169,23.075196780299994
+1585,,0,,Others,0.78871988,1.594956504,5,0.125754563,10.76377494,21.19503672
+1570,T,universal stress protein A,universal stress protein A,Others,0.790447969,1.580484169,7.444779097,0.169138557,12.06660352,21.875300012590014
+1559,O,molecular chaperone GroES,molecular chaperone GroES,Chaperones and folding catalysts,0.790447969,1.556349302,24.38258142,0.181409103,18.05701943,39.43333902139998
+1602,,0,,Others,0.790447969,1.541057494,86.59746123,0.111635041,13.82199937,81.7715443
+1572,Q,short-chain dehydrogenase,short-chain dehydrogenase,Others,0.790447969,1.534206349,45.95075389,0.16949217,15.02920178,43.017264954480055
+1577,E,urea transporter,urea transporter,Others,0.790447969,1.521763626,54.8117833,0.172863381,16.27965915,60.98475216346994
+1605,M,cell division protein,cell division protein,beta-Lactam resistance,0.790447969,1.516751181,52.45345862,0.083895459,17.38193322,65.63475526839997
+1591,D,chromosome partitioning protein,chromosome partitioning protein,Others,0.790447969,1.516469476,70.90140845,0.148183645,11.2580748,56.006529683640075
+1557,H,4-hydroxybenzoate polyprenyl transferase,4-hydroxybenzoate polyprenyl transferase,Biosynthesis of secondary metabolites,0.790447969,1.515788305,51.2704729,0.175266747,15.10937844,48.45226920610002
+1571,,lipoprotein,lipoprotein,Others,0.790447969,1.508657113,17,0.135303338,14.91526534,42.54342760256997
+1592,L,uracil-DNA glycosylase,uracil-DNA glycosylase,Base excision repair,0.790447969,1.508656092,39.57275664,0.148110407,7.447317416,39.98846765550004
+1556,S,iron--sulfur cluster insertion protein ErpA,iron--sulfur cluster insertion protein ErpA,Others,0.720193909,1.490548455,82.75242158,0.117963491,9.482127636,62.29080243970006
+1580,,lytic transglycosylase,lytic transglycosylase,Bacterial secretion system,0.720193909,1.487892495,54.29099871,0.134317092,13.03151091,48.21007327087004
+1595,,general secretion pathway protein GspC,general secretion pathway protein GspC,Bacterial secretion system,0.720193909,1.477060674,0,0.118263822,5,26.4873821
+1587,H,D-2-hydroxyacid dehydrogenase,D-2-hydroxyacid dehydrogenase,"Glycine, serine and threonine metabolism",0.720193909,1.470348172,14.44136622,0.161615269,19.14774795,41.53298158759998
+1198,,0,,,0.6980274,0.431215164,0,0.7081939,5,13.847552698779994
+1555,J,50S ribosomal protein L13,50S ribosomal protein L13,Ribosome biogenesis,0.720193909,1.443564639,97.021306,0.127774444,19.5119966,83.14509946089993
+1584,,0,,Others,0.720193909,1.440292704,5.523862087,0.170907609,13.06819747,18.804550695939998
+1603,S,twitching motility protein PilT,twitching motility protein PilT,Others,0.720193909,1.432705754,28.48144365,0.175433914,10.23513915,40.01758222124004
+1576,S,transglycosylase,transglycosylase,Others,0.720193909,1.431368494,0,0.159258468,15.92624751,21.53776399
+1583,,hypothetical protein,hypothetical protein,Others,0.720193909,1.427900173,0,0.169522449,9.796937003,21.62862236
+1560,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.772120134,1.419721322,55.92355121,0.164143753,9.960205702,50.79212279963999
+1566,F,guanylate kinase,guanylate kinase,Purine metabolism,0.772120134,1.41883022,44.64551323,0.15024892,15.28797167,40.369750112269934
+1565,D,cell division topological specificity factor,cell division topological specificity factor,Chromosome and associated proteins,0.772120134,1.410196217,3.5,0.142947021,18.46199728,33.36939207500001
+1563,M,glycosyl transferase family 1,glycosyl transferase family 1,Lipopolysaccharide biosynthesis,0.772120134,1.391590367,71.66571537,0.166603614,19.33356947,64.23196596229991
+1581,K,LysR family transcriptional regulator,LysR family transcriptional regulator,,0.772120134,1.389800404,49.73250048,0.175852376,18.76873134,50.79314165310003
+1590,,hypothetical protein,hypothetical protein,Others,0.772120134,1.388502976,43.8750089,0.123580644,11.22472238,38.27121508530001
+1586,,0,,Others,0.772120134,1.380990239,0,0.144672974,11.28327539,18.165184482669993
+1568,I,farnesyl-diphosphate farnesyltransferase,farnesyl-diphosphate farnesyltransferase,Biosynthesis of secondary metabolites/cofactors,0.772120134,1.379239868,68.58230745,0.139014629,15.94638305,59.54338391500004
+1589,,hypothetical protein,hypothetical protein,Others,0.772120134,1.365351915,83.1300813,0.169529125,16.08165407,68.99658338
+1562,G,phosphoglucomutase,phosphoglucomutase,Amino sugar and nucleotide sugar metabolism,0.772120134,1.364670911,65.34234996,0.194270167,14.40212346,64.57815065010001
+1593,H,glutamyl-tRNA reductase,glutamyl-tRNA reductase,Biosynthesis of secondary metabolites,0.772120134,1.352029163,59.9619334,0.120212202,18.34374985,53.929795383899965
+1582,M,0,,,0.772120134,1.345692928,100,0.225654822,7.665487742,91.03406429179996
+1574,H,uroporphyrin-III C-methyltransferase,uroporphyrin-III C-methyltransferase,Biosynthesis of secondary metabolites,0.772120134,1.329641882,60.2337759,0.130959388,12.05281284,51.50784886260005
+1561,M,"dTDP-glucose 4,6-dehydratase","dTDP-glucose 4,6-dehydratase",Acarbose and validamycin biosynthesis,0.752265759,1.328473375,26.12747029,0.184396292,12.44258686,31.022135700320014
+1588,P,sulfonate ABC transporter substrate-binding protein,sulfonate ABC transporter substrate-binding protein,ABC transporters,0.752265759,1.323539394,6,0.156462714,13.86547094,25.424924508100005
+1573,,hypothetical protein,hypothetical protein,Others,0.752265759,1.316264776,52.87734776,0.130222431,13.52334975,54.56308950989994
+1601,L,primosome assembly protein PriA,primosome assembly protein PriA,Homologous recombination,0.752265759,1.311739418,35.24265823,0.173069162,15.60071504,42.17593493
+1599,C,ATP synthase subunit b,ATP synthase subunit b,Metabolic pathways,0.752265759,1.307889134,97.18002695,0.113361836,23,92.13052635029999
+1598,C,F0F1 ATP synthase subunit C,F0F1 ATP synthase subunit C,Metabolic pathways,0.752265759,1.306156779,98.99040861,0.12391201,17.23452254,76.96902771206987
+1604,,0,,Others,0.752265759,1.297022199,16.60013686,0.138240932,8.367219107,24.45811710210002
+1594,R,GTP-binding protein,GTP-binding protein,,0.752265759,1.293493765,100,0.215293418,10.75995714,85.67476948270001
+1567,K,DNA-directed RNA polymerase subunit omega,DNA-directed RNA polymerase subunit omega,Metabolic pathways,0.752265759,1.286607048,27.07625481,0.210648807,10.76466437,50.62857671900004
+1600,H,uroporphyrinogen decarboxylase,uroporphyrinogen decarboxylase,Biosynthesis of secondary metabolites/cofactors,0.752265759,1.240561603,94.93659455,0.056471252,5,89.04610009500001
+1676,J,glutaminyl-tRNA synthetase,glutaminyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,0.752265759,0.819819097,86.17438692,0.25215432,6,86.29571251459997
+1674,J,valyl-tRNA synthetase,valyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,0.752265759,0.795663681,58.03108808,0.27392113,7,69.64831597619988
+1597,C,ATP synthase subunit A,ATP synthase subunit A,Metabolic pathways,0.752265759,0.753696172,96.2141985,0.30605886,8,89.68079209309988
+1886,G,ribokinase,ribokinase,Pentose phosphate pathway,0.752265759,0.742366145,22.33823215,0.38729029,5,47.22897879049999
+1885,R,succinylglutamate desuccinylase/aspartoacylase,succinylglutamate desuccinylase/aspartoacylase,Others,0.752265759,0.67928391,15.63395837,0.39534644,5,30.57807691710001
+1670,Q,peptide ABC transporter ATP-binding protein,peptide ABC transporter ATP-binding protein,ABC transporters,0.752265759,0.664593532,55.37384558,0.39781911,5,51.616276179500026
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.752265759,0.652688607,18.67554884,0.58754314,5,18.86734680019997
+1452,J,tryptophanyl-tRNA synthetase,tryptophanyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,0.746826468,0.642798855,97.84166566,0.40787617,8.011292725,93.87356105470009
+1488,F,adenylosuccinate lyase,adenylosuccinate lyase,adenosine ribonucleotides <i>de novo</i> biosynthesis,0.746826468,0.641811914,100,0.39648431,8.582832176,99.51101156
+1667,R,RNA chaperone Hfq,RNA chaperone Hfq,RNA degradation,0.746826468,0.630551207,89.45554174,0.31713837,6,87.97064757299995
+1891,,0,,Others,0.746826468,0.625329207,32.46716732,0.4808184,5,33.36365491
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.746826468,0.617508504,5.243501636,0.64444635,5,8.250761571
+1890,L,initiator RepB protein,initiator RepB protein,Others,0.746826468,0.61129054,0,0.41826347,5,16.170149784299998
+1518,G,ribokinase,ribokinase,Others,0.746826468,0.610635039,35.31105985,0.44962465,5,33.63506622680007
+1889,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,,0.746826468,0.605769705,100,0.49399534,5,76.18791553936006
+1451,J,proline--tRNA ligase,proline--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.746826468,0.60311968,98.49365272,0.44863274,11.41798297,94.27948607
+1897,J,2'-5' RNA ligase,2'-5' RNA ligase,Others,0.746826468,0.600255968,60.03430532,0.45397986,5,62.47589268920007
+1443,K,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,Others,0.746826468,0.600047123,70.87339744,0.54171185,11.07316602,62.03388259092009
+1896,U,preprotein translocase subunit TatC,preprotein translocase subunit TatC,Bacterial secretion system,0.746826468,0.583525173,12.85544264,0.44534426,5,18.281154602070018
+1677,L,DNA polymerase III subunit epsilon,DNA polymerase III subunit epsilon,DNA Replication,0.746826468,0.581266189,100,0.39516696,8,93.51068947
+1470,F,uridylate kinase,uridylate kinase,Metabolic pathways,0.746826468,0.580773114,100,0.31303468,6.173144278,99.24402583829999
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",0.746826468,0.578412845,96.65165229,0.10530321,5,95.93061780670008
+2079,M,UDP-glucose 6-dehydrogenase,UDP-glucose 6-dehydrogenase,,0.746826468,0.566721165,100,0.57815039,5,67.20203626253996
+1529,E,chorismate synthase,chorismate synthase,Biosynthesis of amino acids,0.746826468,0.566694449,64.16633479,0.56866139,5,62.558097700900035
+1413,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,0.746826468,0.566445594,98.04536855,0.484553472,15.56766425,91.62836481
+1642,U,preprotein translocase subunit SecG,preprotein translocase subunit SecG,Bacterial secretion system,0.746826468,0.562322365,93.79697669,0.26609431,9,86.32011900779989
+1519,G,ribokinase,ribokinase,Others,0.753624349,0.561312176,62.17513102,0.49751013,5,64.84846293762001
+1522,T,diguanylate cyclase,diguanylate cyclase,Others,0.754655606,0.550721183,40.68360154,0.54661555,5,53.381629715840035
+1470,F,uridylate kinase,uridylate kinase,Metabolic pathways,0.754655606,0.549622222,100,0.31303468,6.173144278,99.24402583829999
+1539,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,0.754655606,0.544837344,21.45102411,0.5104979,5,32.456941455100015
+1894,J,prfA,prfA,Others,0.754655606,0.54391048,79.79459459,0.49462131,5,62.83252970422004
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,0.754655606,0.537855234,26.20338608,0.46061323,5,27.242876472000034
+2014,H,bifunctional protein FolD,bifunctional protein FolD,Carbon fixation pathways in prokaryotes,0.754655606,0.533253077,81.32696796,0.4163562,9.273266638,82.96760019
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,0.754655606,0.532032737,63.62908557,0.468896047,5,64.98816920879993
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.754655606,0.529928831,6.7,0.618689807,5,11.013531280188888
+1530,E,chorismate synthase,chorismate synthase,Biosynthesis of amino acids,0.754655606,0.525756515,80.3169462,1.34926147,5,73.49441136769988
+1415,L,DNA topoisomerase IV subunit A,DNA topoisomerase IV subunit A,DNA Replication,0.754655606,0.522892736,31.10512286,0.340695797,5,35.00847168909998
+1506,L,DNA topoisomerase IV subunit B,DNA topoisomerase IV subunit B,Others,0.754655606,0.520975134,34.82946621,0.44862879,5,31.662424307600055
+1513,H,delta-aminolevulinic acid dehydratase,delta-aminolevulinic acid dehydratase,Biosynthesis of secondary metabolites,0.754655606,0.518752686,73.9,0.64414081,5,48.332530621679986
+1479,R,obgE,obgE,Ribosome biogenesis biogenesis,0.754655606,0.518069677,77.13969547,0.49897401,5,69.53565638
+1665,I,ispG,ispG,Biosynthesis of antibiotics,0.754655606,0.512392432,98.46940135,0.13920495,19,79.96441729
+1517,J,50S ribosomal protein L15,50S ribosomal protein L15,Ribosome biogenesis,0.754655606,0.511379737,98.92555981,0.760798,5,70.83161289940995
+1535,F,thyA,thyA,folate transformations II,0.754655606,0.510402261,56.99543377,0.53889013,5,54.279081827900015
+1528,H,"glutamate-1-semialdehyde 2,1-aminomutase","glutamate-1-semialdehyde 2,1-aminomutase",Biosynthesis of secondary metabolites,0.754655606,0.510031022,0,0.59526193,5,11.331767881200001
+1424,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,0.754655606,0.507746381,83.80663407,0.251253482,18.4419597,77.48476239399993
+1986,H,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,Biosynthesis of secondary metabolites,0.754655606,0.504203288,0,0.73066436,5,18.598849423419992
+1512,H,porphobilinogen deaminase,porphobilinogen deaminase,,0.75973454,0.503896071,100,0.51118471,5,77.00721897179996
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.75973454,0.500895388,98.22940936,0.45113842,15.74996811,97.83836762
+1620,S,hypothetical protein,hypothetical protein,Others,0.75973454,0.5000435,34.43254871,0.47156474,5,51.590171428300074
+2082,F,cytidylate kinase,cytidylate kinase,,0.75973454,0.499633533,100,0.62862286,6,81.98794515440001
+1682,H,ubiquinone biosynthesis O-methyltransferase,ubiquinone biosynthesis O-methyltransferase,Biosynthesis of secondary metabolites,0.75973454,0.495576812,100,0.4609203,7,93.85081243210004
+1844,M,acetyltransferase,acetyltransferase,Others,0.75973454,0.492836596,75.04974135,0.48842295,8,72.44296980729996
+1353,L,gyrB,gyrB,DNA Replication,0.75973454,0.492421544,97.60617654,0.469460962,5,86.05396561020001
+1508,H,glutamyl-tRNA reductase,glutamyl-tRNA reductase,Biosynthesis of secondary metabolites,0.75973454,0.491140406,17.72765872,0.78909805,6,37.85552087338995
+1635,M,ispH,ispH,Biosynthesis of antibiotics,0.75973454,0.490010453,72.02422023,0.37289546,8,75.88214391
+1680,J,elongation factor P,elongation factor P,Others,0.75973454,0.489603171,100,0.52451882,9,83.30151246961992
+1634,P,superoxide dismutase,superoxide dismutase,,0.75973454,0.48890901,24.93820438,0.57609303,5,28.095147324660005
+1509,E,0,0,Others,0.75973454,0.486923397,53.64398422,0.52349908,5,51.57647860210003
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.75973454,0.486267491,41,0.618689807,5,11.013531280188888
+1480,U,signal recognition particle protein,signal recognition particle protein,Bacterial secretion system,0.75973454,0.485695478,100,0.44001703,5,71.56562160839997
+1536,F,thyA,thyA,folate transformations II,0.75973454,0.484765613,37.74237056,0.52690274,5,42.220603623599985
+1484,H,thiamine monophosphate kinase,thiamine monophosphate kinase,Metabolic pathways,0.75973454,0.484563333,71.51413723,0.30016676,5.338886514,71.66812419640014
+1527,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,Metabolic pathways,0.75973454,0.484212797,63.9790001,0.61682291,5,68.16200289
+1653,O,tRNA threonylcarbamoyl adenosine modification protein YeaZ,tRNA threonylcarbamoyl adenosine modification protein YeaZ,Others,0.75973454,0.484193153,97.44847306,0.10409831,13.79278292,89.33739786
+1511,H,porphobilinogen deaminase,porphobilinogen deaminase,Biosynthesis of secondary metabolites,0.75973454,0.482965324,52.21382917,0.61584033,5,55.03008427576668
+1666,R,ribosome-associated GTPase EngA,ribosome-associated GTPase EngA,Others,0.75973454,0.482118157,93.85293528,0.14720209,10.24741865,69.19971741796996
+1417,L,DNA topoisomerase IV subunit A,DNA topoisomerase IV subunit A,DNA Replication,0.75973454,0.480624003,35,0.413840999,5,34.541703084299996
+1623,G,PTS fructose transporter subunit IIA,PTS fructose transporter subunit IIA,Ascorbate and aldarate metabolism,0.76277201,0.479513082,60.13785369,0.22441516,11.21443109,62.38416621990005
+1633,R,membrane protein,membrane protein,Peptidoglycan biosynthesis,0.76277201,0.477274844,0,0.53354486,11.20253909,35.507678989199995
+2078,E,cysteine synthase,cysteine synthase,Biosynthesis of amino acids,0.76277201,0.47695986,100,0.58483852,5,82.69038977499997
+1629,J,translation factor Sua5,translation factor Sua5,Others,0.76277201,0.476627222,71.31127269,0.24453347,12.03711582,68.93780653589994
+1488,F,adenylosuccinate lyase,adenylosuccinate lyase,adenosine ribonucleotides <i>de novo</i> biosynthesis,0.76277201,0.476434354,100,0.39648431,8.582832176,99.51101156
+1537,F,thyA,thyA,folate transformations II,0.76277201,0.476073442,55.6778153,0.54389655,5,63.87147872
+1834,C,0,,Others,0.76277201,0.475125784,67.84007283,0.53698785,5,60.33111883720003
+1958,,0,,Others,0.76277201,0.474911056,57.98319328,0.51320738,5,63.37992046
+1853,,0,,Others,0.76277201,0.474858611,86.77251749,0.51986761,5,67.64984081339992
+1407,K,0,0,Metabolic pathways,0.684084738,0.440003969,87.77932639,0.450366766,6.205804601,81.29130188010006
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.76277201,0.474515671,98.22940936,0.45113842,15.74996811,97.83836762
+1658,I,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,Biosynthesis of antibiotics,0.76277201,0.474461914,42.09726916,0.4324525,5,51.99484330979998
+1619,H,S-adenosylmethionine synthase,S-adenosylmethionine synthase,2'-deoxymugineic acid phytosiderophore biosynthesis,0.76277201,0.474262058,0,0.19604059,6,23.915901400600006
+1481,F,ribonucleoside-diphosphate reductase subunit alpha,ribonucleoside-diphosphate reductase subunit alpha,adenosine deoxyribonucleotides de novo biosynthesis,0.76277201,0.473486874,97.20241684,0.45206323,7,92.9741003
+1900,J,50S ribosomal protein L17,50S ribosomal protein L17,Ribosome biogenesis,0.76277201,0.473475285,94.93464052,0.53645123,8,73.82011726
+1636,R,permease,permease,ABC transporters,0.76277201,0.473007296,91.68597914,0.13916327,5,72.18455650460008
+2081,J,rpsA,rpsA,Ribosome biogenesis,0.76277201,0.472849188,52.53164557,0.54250879,6,50.533798683720015
+1671,T,LexA repressor,LexA repressor,Others,0.76277201,0.472660626,54.72856521,0.32402809,8,67.18883634999993
+1905,U,secY,secY,Bacterial secretion system,0.76277201,0.472633374,98.00487053,0.1886101,9,79.63225072856989
+1608,,hypothetical protein,hypothetical protein,Others,0.763796525,0.471812532,33.34630261,0.58340417,7.06330039,33.68414315785996
+1569,K,MarR family transcriptional regulator,MarR family transcriptional regulator,Others,0.763796525,0.471685096,100,0.55381858,5,67.87280128
+1613,K,MarR family transcriptional regulator,MarR family transcriptional regulator,Others,0.763796525,0.469993176,6.591057141,0.7244409,6,22.79343739889998
+1607,K,LysR family transcriptional regulator,LysR family transcriptional regulator,Others,0.763796525,0.469653957,0,0.5993965,7,19.444750869440004
+1913,L,DNA-binding protein HU-alpha,DNA-binding protein HU-alpha,DNA replication,0.763796525,0.46869696,54.35520362,0.60891241,8,41.692145857699934
+1622,M,"bifunctional protein RfaE, domain II","bifunctional protein RfaE, domain II",Lipopolysaccharide biosynthesis,0.763796525,0.468688582,4.810453165,0.4332856,5,33.93852996425003
+1627,R,ubiquinone biosynthesis protein UbiB,ubiquinone biosynthesis protein UbiB,Biosynthesis of secondary metabolites,0.763796525,0.468123474,61.26122608,0.12680078,6,52.23674914690001
+1419,M,hypothetical protein,hypothetical protein,Others,0.763796525,0.46801914,98.89294746,0.464380216,8,87.15624732520001
+1987,H,pdxA,pdxA,Metabolic pathways,0.763796525,0.467877679,100,0.09074548,9,96.76739224
+1655,L,ligA,ligA,Base excision repair,0.763796525,0.467677081,93.51093799,0.47100916,12.70221805,86.85604877470008
+2053,J,alanine--tRNA ligase,alanine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.763796525,0.467559539,7.511474649,0.70305328,5,11.69079183286999
+1485,G,transketolase,transketolase,Biosynthesis of amino acids,0.763796525,0.467532886,27.28295876,0.48008983,5,27.842514312499965
+1614,,hypothetical protein,hypothetical protein,Others,0.763796525,0.46703032,6.626885104,0.56881996,8.366859153,13.862416734390003
+1651,E,aspartate kinase,aspartate kinase,2-Oxocarboxylic acid metabolism,0.763796525,0.465549082,47.36601411,0.41833514,11.76987039,62.08816199579994
+2001,J,rpmB,rpmB,Ribosome biogenesis,0.763796525,0.46509119,33.77358491,0.60641501,5,31.65998399962997
+1644,C,NADH-quinone oxidoreductase subunit B,NADH-quinone oxidoreductase subunit B,Metabolic pathways,0.763796525,0.464971015,80.86122162,0.42535379,13.41647691,80.82833529199995
+1860,C,dihydrofolate reductase,dihydrofolate reductase,Others,0.763796525,0.464689783,50.84441922,0.49373363,5,63.562211538280074
+2069,Q,fabG,fabG,(5Z)-dodecenoate biosynthesis II,0.763796525,0.464596131,37.57548309,0.65162631,5,37.63637365736002
+1828,,0,,Others,0.763796525,0.464075521,66.48862512,0.54869124,10.91335702,66.71513649549992
+1975,K,type III pantothenate kinase,type III pantothenate kinase,Metabolic pathways,0.726498864,0.463157897,68.70210728,0.36223351,5,53.44271319849995
+1654,D,chromosome partitioning protein Smc,chromosome partitioning protein Smc,Others,0.726498864,0.462936618,59.94278507,0.43953783,7.797482624,70.78451499770009
+1965,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,0.726498864,0.462275927,57.01275046,0.6517464,5,44.050671889459984
+2009,I,CDP-diacylglycerol--serine O-phosphatidyltransferase,CDP-diacylglycerol--serine O-phosphatidyltransferase,Glycerophospholipid metabolism,0.726498864,0.461894253,24.24623116,0.44842801,5,28.064124390600043
+2068,I,acyl carrier protein,acyl carrier protein,,0.726498864,0.461852297,100,0.59075118,5.638558964,76.53410024
+1485,G,transketolase,transketolase,Biosynthesis of amino acids,0.726498864,0.461762406,27.28295876,0.48008983,5,27.842514312499965
+1611,K,AraC family transcriptional regulator,AraC family transcriptional regulator,Others,0.726498864,0.461668536,40.8583478,0.63892573,6.494198071,45.74946275
+1625,H,phosphopantetheine adenylyltransferase,phosphopantetheine adenylyltransferase,Metabolic pathways,0.726498864,0.461559507,88.41320738,0.30064082,13.3668387,87.95774081040003
+1652,J,glutamate--tRNA ligase,glutamate--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.726498864,0.461404736,97.99390413,0.35762091,12.25105307,93.10093903180004
+1624,S,recombinase RecA,recombinase RecA,Others,0.726498864,0.461234766,15,0.60896704,7.610664627,22.29217624764999
+1856,I,acetyl-CoA acetyltransferase,acetyl-CoA acetyltransferase,Benzoate degradation,0.726498864,0.460545834,57.86066216,0.57725753,5.622542503,58.237261410200055
+1640,M,heptosyltransferase,heptosyltransferase,Others,0.726498864,0.460276706,23.26575868,0.56885273,8.655612435,20.760184640220015
+1977,K,DNA-directed RNA polymerase sigma-70 factor,DNA-directed RNA polymerase sigma-70 factor,Others,0.726498864,0.460055146,77.57847534,0.62844831,5,58.34166665300003
+1639,C,inorganic pyrophosphatase,inorganic pyrophosphatase,Oxidative phosphorylation,0.726498864,0.459906441,57.49615641,0.55850159,5,51.29985796720001
+1612,R,4-oxalocrotonate tautomerase,4-oxalocrotonate tautomerase,Others,0.726498864,0.459830105,26.58089669,0.61029927,6.986670286,28.715258734039978
+1507,H,glutamyl-tRNA reductase,glutamyl-tRNA reductase,Biosynthesis of secondary metabolites,0.726498864,0.459472713,15.22306855,0.60040223,5,30.045921418274993
+1637,M,diacylglyceryl transferase,diacylglyceryl transferase,lipoprotein posttranslational modification,0.726498864,0.459366955,1.607462932,0.54694028,8.960470494,18.693964488920013
+1579,K,LysR family transcriptional regulator,LysR family transcriptional regulator,Others,0.726498864,0.459152938,19,0.58854642,6,26.591721195699996
+1672,F,dihydroorotate dehydrogenase,dihydroorotate dehydrogenase,Metabolic pathways,0.726498864,0.459021384,69.7741881,0.42889346,8,75.29283399110008
+1516,U,secY,secY,Bacterial secretion system,0.726498864,0.458909432,98.76732989,0.59789424,5,86.7239066
+1880,,hypothetical protein,hypothetical protein,Others,0.726498864,0.45836808,79.39926089,0.52576538,9.156792585,62.76856737401991
+2012,C,"NADH oxidoreductase (quinone), F subunit","NADH oxidoreductase (quinone), F subunit",,0.6568386,0.458255651,100,0.49040167,14.17450604,98.26090303
+1481,F,ribonucleoside-diphosphate reductase subunit alpha,ribonucleoside-diphosphate reductase subunit alpha,adenosine deoxyribonucleotides de novo biosynthesis,0.65693535,0.458188161,97.20241684,0.45206323,9.35851257,94.98194760110013
+1916,,transcriptional regulator,transcriptional regulator,Others,0.65696303,0.458168856,0,0.60971194,5,3.4199251941399984
+1679,S,hypothetical protein,hypothetical protein,Others,0.65828763,0.457246933,62.96296296,0.54716445,9,53.854885784880025
+1650,F,pyrG,pyrG,Metabolic pathways,0.65833522,0.45721388,56.35581136,0.45774765,5,58.712049799300075
+1660,J,30S ribosomal protein S6,30S ribosomal protein S6,,0.65868119,0.45697373,78.24795843,0.60622184,8.057102268,62.36857337859995
+1510,E,0,0,Others,0.65871999,0.456946813,37.85534486,0.5875545,5,31.14241625300001
+1616,S,membrane protein,membrane protein,Others,0.65907732,0.456699071,0,0.61513073,8.638609184,9.173871641749999
+2067,Q,3-oxoacyl-ACP synthase,3-oxoacyl-ACP synthase,Biotin metabolism,0.6592367,0.456588658,50.19744009,0.66720193,5,62.02179350919995
+2043,U,multidrug transporter,multidrug transporter,beta-Lactam resistance,0.69124877,0.435443813,0,0.62451193,6.915064218,14.951420412799996
+1645,C,NADH dehydrogenase subunit E,NADH dehydrogenase subunit E,Metabolic pathways,0.66078704,0.455517408,91.90053336,0.16021206,13.56053539,63.52773937048993
+1538,D,cell wall shape-determining protein,cell wall shape-determining protein,Peptidoglycan biosynthesis,0.66098451,0.455381322,39.61275074,0.58531254,5,54.30838262279999
+1626,L,single-stranded DNA-binding protein,single-stranded DNA-binding protein,DNA Replication,0.66125795,0.455193015,21.5099581,0.60981931,8.600089173,23.46753136979997
+1647,C,Fe-S cluster assembly scaffold IscU,Fe-S cluster assembly scaffold IscU,,0.66228171,0.454489374,100,0.56939097,7.938881638,67.95114643583999
+1606,,hypothetical protein,hypothetical protein,Others,0.66245482,0.454370609,0.873845485,0.62218066,7.558084262,6.926587905449985
+1973,J,argS,argS,,0.66261728,0.454259207,100,0.59754227,5,67.14716012
+1643,C,NADH-quinone oxidoreductase subunit A,NADH-quinone oxidoreductase subunit A,Metabolic pathways,0.66270517,0.454198962,91.80971778,0.35647321,13.55211153,91.00944073359994
+2058,P,iron dicitrate transporter FecR,iron dicitrate transporter FecR,Others,0.66295784,0.454025855,0,0.55411207,5,20.872801278000008
+1661,L,DNA helicase,DNA helicase,DNA Replication,0.66339853,0.453724249,99.61671718,0.19763977,14.69542498,90.83020524269996
+1351,L,gyrB,gyrB,DNA Replication,0.663532175,0.453632863,97.18008013,0.489200805,12.0713147,96.06338801029989
+1877,,0,,Others,0.66401703,0.453301627,46.86439302,0.51612829,5.223700839,51.44975597129997
+2070,J,rpmF,rpmF,Ribosome biogenesis,0.66462827,0.452884738,21.10567576,0.67596093,5,26.06906445599999
+1425,G,fructose-bisphosphate aldolase,fructose-bisphosphate aldolase,Biosynthesis of amino acids,0.665466443,0.452314318,88.12160777,0.522694254,13.03455657,88.83969315
+1899,J,50S ribosomal protein L17,50S ribosomal protein L17,,0.66575851,0.452115888,100,0.54587283,5,81.06206047162003
+1875,,hypothetical protein,hypothetical protein,Others,0.666217,0.451804742,0,0.56748806,5,20.590883095200006
+1641,I,phosphatidylserine decarboxylase proenzyme,phosphatidylserine decarboxylase proenzyme,Glycerophospholipid metabolism,0.66644394,0.451650892,52.52770014,0.23008711,13.27275891,54.56588598
+1365,C,ATP synthase subunit delta,ATP synthase subunit delta,Metabolic pathways,0.668379033,0.450343271,99.26102389,0.390922085,10.83775646,93.24030589419992
+1945,C,alcohol dehydrogenase,alcohol dehydrogenase,Others,0.66896182,0.44995094,13.39257051,0.60588864,5,13.456219334700009
+1610,,hypothetical protein,hypothetical protein,,0.66952347,0.449573485,38.25966851,0.61862276,6.879893358,39.14370939350007
+1851,,0,,Others,0.67012274,0.449171446,46.28879892,0.59451801,5,39.098121409299964
+1411,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,0.670918473,0.448638713,49,0.466180818,15.26987764,68.97120708050002
+1901,K,DNA-directed RNA polymerase subunit alpha,DNA-directed RNA polymerase subunit alpha,Metabolic pathways,0.67095457,0.448614576,20.61027837,0.58096927,5,21.268275802290006
+1520,H,lipoyl(octanoyl) transferase,lipoyl(octanoyl) transferase,lipoate biosynthesis and incorporation (yeast),0.6710581,0.448545364,44.45260136,0.65528519,5,28.937968126439966
+1470,F,uridylate kinase,uridylate kinase,Metabolic pathways,0.6728523,0.447349292,100,0.31303468,6.173144278,99.24402583829999
+1662,E,threonine synthase,threonine synthase,Biosynthesis of amino acids,0.67286265,0.447342411,63.72424001,0.63918725,8.092915527,52.21635348721998
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,0.67297372,0.44726858,26.20338608,0.46061323,5,27.242876472000034
+1669,,cobalamin biosynthesis protein CbiG,cobalamin biosynthesis protein CbiG,Metabolic pathways,0.67313787,0.44715951,44.69441755,0.59463754,9,38.98096344089996
+1994,M,N-acetylmuramoyl-L-alanine amidase,N-acetylmuramoyl-L-alanine amidase,Others,0.67365306,0.446817535,7.420499819,0.64729747,5,28.590064019779966
+1609,O,tRNA N6-adenosine threonylcarbamoyltransferase,tRNA N6-adenosine threonylcarbamoyltransferase,Others,0.67385703,0.446682288,39.7687576,0.56622881,8.95211884,49.086398252379944
+1876,,0,,Others,0.67452896,0.446237327,98.43086033,0.43273642,5,75.09161569
+1659,O,peptidase,peptidase,Others,0.67480653,0.446053775,98.68963165,0.19207458,15.72664548,85.47636875619993
+1678,,hypothetical protein,hypothetical protein,Others,0.67515783,0.445821683,53.24032403,0.60553179,6,53.60561418090002
+1906,J,50S ribosomal protein L29,50S ribosomal protein L29,Ribosome biogenesis,0.67531234,0.44571968,77.30741761,0.59302527,5,60.84116548739994
+1526,E,glutamate 5-kinase,glutamate 5-kinase,Arginine and proline metabolism,0.67551154,0.445588243,96.54470379,0.51803217,5,68.05748589529998
+1938,L,DNA primase,DNA primase,DNA Replication,0.67554391,0.445566891,24.81982156,0.59047952,5.241265814,22.706906561650015
+1515,H,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,Biosynthesis of secondary metabolites,0.83940497,0.358587346,58.71080139,1.23181307,5,64.17143077889993
+1485,G,transketolase,transketolase,Biosynthesis of amino acids,0.76277201,0.474699532,27.28295876,0.48008983,5,27.842514312499965
+1621,P,copper homeostasis protein CutC,copper homeostasis protein CutC,Others,0.67732288,0.444396622,0,0.58990988,8.332697104,8.542501507270003
+1995,J,30S ribosomal protein S20,30S ribosomal protein S20,Ribosome biogenesis,0.67748125,0.444292739,2.619108133,0.58010221,5,15.765816110200014
+2005,L,DNA topoisomerase IV subunit A,DNA topoisomerase IV subunit A,Others,0.67897836,0.443313098,100,0.43156737,9.017003365,88.36070609
+1854,,hypothetical protein,hypothetical protein,Others,0.67952116,0.44295898,48.57207523,0.54879004,5,56.849631503600065
+1657,F,guaA,guaA,Drug metabolism - other enzymes,0.67965197,0.442873726,94.38366005,0.08992907,14.58118619,88.12256388
+1939,I,1-deoxy-D-xylulose-5-phosphate synthase,1-deoxy-D-xylulose-5-phosphate synthase,Biosynthesis of antibiotics,0.68030076,0.442451365,0,0.56935221,5,16.62917567
+1979,J,peptidyl-tRNA hydrolase,peptidyl-tRNA hydrolase,Others,0.68040058,0.442386454,29,0.58409574,5,45.30096577
+1414,L,DNA topoisomerase IV subunit B,DNA topoisomerase IV subunit B,DNA Replication,0.68043867,0.44236169,49.1018456,0.421723977,5,39.287161632800036
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.680604036,0.44225421,25.52364084,0.46800837,5,27.04785862920005
+1951,S,RND transporter MFP subunit,RND transporter MFP subunit,,0.68126093,0.441827774,100,0.64770852,5,87.88240127
+1950,S,RND transporter,RND transporter,Others,0.68141393,0.441728569,0,0.61280004,5,6.675253776
+1983,T,HPr kinase/phosphorylase,HPr kinase/phosphorylase,Others,0.68215777,0.441246898,91.20251357,0.62170125,5.735325821,77.59972180539991
+1935,,hypothetical protein,hypothetical protein,Others,0.6822077,0.441214604,8.068509834,0.58099955,7.452024486,19.711178703929995
+1912,J,50S ribosomal protein L1,50S ribosomal protein L1,Ribosome biogenesis,0.68234283,0.441127226,52.85623851,0.64857406,5,56.418278214070035
+2015,S,iscA,iscA,Others,0.68271027,0.440889808,98.76612994,0.42092605,16.20714924,93.88301424699993
+1956,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Others,0.68339672,0.440446949,100,0.61133762,6.098808951,77.83053345
+1355,L,gyrB,gyrB,DNA Replication,0.683483469,0.440391046,100,0.562242789,5,93.74996213990002
+1484,H,thiamine monophosphate kinase,thiamine monophosphate kinase,Metabolic pathways,0.68369242,0.440256453,71.51413723,0.30016676,5.338886514,71.66812419640014
+1991,M,ADP-heptose--LPS heptosyltransferase,ADP-heptose--LPS heptosyltransferase,Lipopolysaccharide biosynthesis,0.68396156,0.440083212,0,0.59310491,5,26.05282756289999
+1969,C,ferredoxin--NADP reductase,ferredoxin--NADP reductase,Photosynthesis,0.67643952,0.444976958,84.5751634,0.63998472,6.469113686,67.93859517439992
+1404,K,0,0,Metabolic pathways,0.684130945,0.439974251,97.72794894,0.431275334,6.004870583,89.68982007023996
+1673,,hypothetical protein,hypothetical protein,Others,0.68470208,0.439607252,89.31888545,0.60875221,5,61.32691323579004
+1486,S,membrane protein,membrane protein,Biosynthesis of secondary metabolites/cofactors,0.68470299,0.439606668,100,0.56835117,5,98.92499004
+1618,T,XRE family transcriptional regulator,XRE family transcriptional regulator,Others,0.6852693,0.439243375,40.62886639,0.61748409,7.586234555,30.19035816179998
+1649,M,cell division protein FtsX,cell division protein FtsX,ABC transporters,0.68586359,0.438862777,55.82212581,0.22755442,13.62325736,56.96422988110009
+1664,F,nucleoside diphosphate kinase,nucleoside diphosphate kinase,Biosynthesis of antibiotics,0.68592082,0.438826161,81.41047586,0.56135747,8.916948868,70.41171493575992
+1668,,hypothetical protein,hypothetical protein,Others,0.6861094,0.438705548,2.801969329,0.56896346,8,23.73629034
+1483,E,aroE,aroE,Biosynthesis of amino acids,0.6866472,0.438361942,0,0.6185718,5,3.483456280188889
+1366,C,ATP synthase subunit alpha,ATP synthase subunit alpha,ATP biosynthesis,0.686735994,0.438305262,98.82333084,0.527628848,10.1055876,80.66119360610008
+1982,,ipk,ipk,Others,0.68707941,0.438086189,0,0.59739835,5,27.14716012
+1675,M,UTP--glucose-1-phosphate uridylyltransferase,UTP--glucose-1-phosphate uridylyltransferase,Amino sugar and nucleotide sugar metabolism,0.68736939,0.437901374,86.22248428,0.52682447,9,70.65347113637992
+1902,J,30S ribosomal protein S4,30S ribosomal protein S4,Ribosome biogenesis,0.68741947,0.437869471,36.88304944,0.60675507,5,35.03426569492997
+1948,,hypothetical protein,hypothetical protein,Others,0.68758124,0.437766452,0,0.54482625,9.390340447,20.588658267759996
+1663,L,DNA polymerase III subunit gamma/tau,DNA polymerase III subunit gamma/tau,DNA Replication,0.68806332,0.437459738,99.17392895,0.39671268,13.9967409,98.91550365040005
+1921,,(2Fe-2S)-binding protein,(2Fe-2S)-binding protein,Others,0.68853407,0.437160648,44.02619029,0.60854557,5.973942995,50.943937198660066
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.68858429,0.437128765,18.67554884,0.58754314,5,18.86734680019997
+1952,,hypothetical protein,hypothetical protein,Others,0.68859057,0.437124778,14.33672968,0.70668824,5,12.671201117869987
+1615,,nitroreductase,nitroreductase,Others,0.68931819,0.436663364,12.71202055,0.57133454,7,28.52036237414001
+1992,H,pyridoxine/pyridoxamine 5'-phosphate oxidase,pyridoxine/pyridoxamine 5'-phosphate oxidase,4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast),0.68964946,0.436453615,0,0.62857717,5,28.86184602379999
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.68984879,0.436327503,25.52364084,0.46800837,5,27.04785862920005
+1943,G,3-beta hydroxysteroid dehydrogenase,3-beta hydroxysteroid dehydrogenase,Others,0.69027797,0.436056217,0,0.63731151,5,6.313834917
+2066,U,signal peptidase,signal peptidase,Protein export,0.69034573,0.436013416,0,0.62290912,5,33.771450871700004
+2060,,hypothetical protein,hypothetical protein,Others,0.69122703,0.435457508,0,0.64354788,5,21.72522019632001
+2044,G,ribose-5-phosphate isomerase A,ribose-5-phosphate isomerase A,Biosynthesis of amino acids,0.70652224,0.426030467,37.06847765,0.59544294,8.099638561,40.64933816877004
+1968,,membrane protein,membrane protein,Others,0.69134931,0.435380488,0,0.58983309,10.37426457,10.805955658800004
+1363,C,F0F1 ATP synthase subunit C,F0F1 ATP synthase subunit C,Metabolic pathways,0.69139589,0.435351156,98.76522823,0.46206155,11.48778514,93.93652160219996
+1638,F,dcd,dcd,,0.69162566,0.435206525,100,0.46591066,5,92.55236408399998
+1416,L,DNA topoisomerase IV subunit B,DNA topoisomerase IV subunit B,DNA Replication,0.692377793,0.434733758,25.10184639,0.348547586,5,32.32141549659999
+1898,E,3-dehydroquinate synthase,3-dehydroquinate synthase,3-dehydroquinate biosynthesis I,0.69277263,0.434485987,15.20152192,0.61321712,5,12.789816577000003
+1831,L,0,,Others,0.69289822,0.434407235,20.83853179,0.55964055,5,40.107925323300016
+1855,,hypothetical protein,hypothetical protein,,0.69290092,0.434405542,100,0.60227121,5,66.49351198
+1978,U,cell division protein FtsY,cell division protein FtsY,Bacterial secretion system,0.69313469,0.434259033,26,0.59477055,5,30.15510607079999
+1405,K,DNA-directed RNA polymerase subunit beta',DNA-directed RNA polymerase subunit beta',Metabolic pathways,0.69339115,0.434098416,95.12619466,0.298978689,7.255538977,75.47086112731988
+1941,,hypothetical protein,hypothetical protein,Others,0.6935211,0.434017076,0,0.60581309,5,8.768819656200002
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",0.69370177,0.433904039,96.65165229,0.10530321,5,95.93061780670008
+1955,,hypothetical protein,hypothetical protein,Others,0.69409554,0.433657879,0,0.59347172,5.17695825,12.69201524
+1970,R,glutamine amidotransferase,glutamine amidotransferase,Others,0.69450292,0.433403505,0.350897886,0.61580084,13.49330476,18.038333350479988
+1483,E,aroE,aroE,Biosynthesis of amino acids,0.69461706,0.433332288,8,0.6185718,5,3.483456280188889
+2011,C,"NADH oxidoreductase (quinone), F subunit","NADH oxidoreductase (quinone), F subunit",Metabolic pathways,0.69585121,0.432563737,100,0.43981883,14.14157313,96.54736900360001
+1487,G,2-dehydro-3-deoxyphosphogluconate aldolase,2-dehydro-3-deoxyphosphogluconate aldolase,"3,6-anhydro-&alpha;-L-galactopyranose degradation",0.6958667,0.432554108,100,0.63055592,5,89.28
+1963,M,rod shape-determining protein MreD,rod shape-determining protein MreD,Others,0.69608089,0.432421008,21,0.58929563,5.79014406,36.09920782
+1954,,TetR family transcriptional regulator,TetR family transcriptional regulator,Others,0.69722568,0.431711006,12.54574564,0.6591235,5,9.841804890139986
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.69735864,0.431628695,98.22940936,0.45113842,15.74996811,97.83836762
+1646,E,glnA,glnA,"Alanine, aspartate and glutamate metabolism",0.65931757,0.456532654,13.53875698,0.52620593,8.835667422,40.867882949300025
+1957,R,KR domain protein,KR domain protein,Others,0.69819749,0.431110115,0,0.61751843,9.172372115,4.64496449
+2072,P,sodium:proton antiporter,sodium:proton antiporter,Others,0.69871686,0.430789662,0,0.60239244,5,31.267687544000005
+1362,C,ATP synthase subunit A,ATP synthase subunit A,Metabolic pathways,0.698801598,0.430737424,98.51345147,0.516886397,12.01085025,97.22623712760006
+1354,L,gyrB,gyrB,DNA Replication,0.698893739,0.430680636,32.51535093,0.538181078,5,43.280446592399976
+1396,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Chromosome and associated proteins,0.69918867,0.430498967,74.61523457,0.41413846,5.48126142,65.34751569375007
+1998,S,hypothetical protein,hypothetical protein,Others,0.69950978,0.430301346,52.3258822,0.554959,9.556194854,49.75559860311992
+1350,L,gyrB,gyrB,DNA Replication,0.699795693,0.43012554,99.07113401,0.59171602,14.92540355,92.82882599201999
+1839,H,panB,panB,Biosynthesis of secondary metabolites,0.69994985,0.430030809,48.71546292,0.34179749,5.783491152,57.28939663640004
+1934,C,sdhB,sdhB,Biosynthesis of antibiotics,0.69996703,0.430020254,65.50743739,0.4196661,6.830524939,70.36673010889994
+2032,F,tmk,tmk,,0.70012948,0.429920477,100,0.26416161,14.81102867,94.9217925
+1468,F,inosine-5-monophosphate dehydrogenase,inosine-5-monophosphate dehydrogenase,adenosine nucleotides degradation I,0.70015355,0.429905697,70.88903743,0.56670423,16.03351497,73.25064539899996
+2056,,hypothetical protein,hypothetical protein,Others,0.70134033,0.429178228,0,0.61561453,6.216457313,12.284469664600003
+1883,I,FMN-dependent NADH-azoreductase,FMN-dependent NADH-azoreductase,Others,0.70139675,0.429143705,30.80940325,0.62600335,5,37.273737740789954
+1962,,thioredoxin,thioredoxin,,0.70193618,0.428813913,9,0.69542653,5,14.980217023480009
+1997,M,3-deoxy-manno-octulosonate cytidylyltransferase,3-deoxy-manno-octulosonate cytidylyltransferase,CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis,0.70240959,0.428524901,31.75558145,0.587185,13.29228792,37.863727028560035
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.70244751,0.428501768,0,0.618689807,5,11.013531280188888
+1841,O,groEL,groEL,RNA degradation,0.70254412,0.428442843,48.5905467,0.6345275,5.666242884,51.404469627899964
+1960,S,trans-2-enoyl-CoA reductase,trans-2-enoyl-CoA reductase,(5Z)-dodecenoate biosynthesis II,0.70281707,0.42827645,0,0.62781734,8.756058676,5.792956533200001
+1910,J,30S ribosomal protein S12,30S ribosomal protein S12,Ribosome biogenesis,0.70301818,0.428153935,50.22291142,0.64867822,5,55.39128064896999
+1940,T,exopolysaccharide biosynthesis protein,exopolysaccharide biosynthesis protein,Others,0.70318167,0.428054389,31.52173913,0.61969423,5,40.849595852533284
+1449,J,aspartate--tRNA(Asp/Asn) ligase,aspartate--tRNA(Asp/Asn) ligase,Aminoacyl-tRNA biosynthesis,0.70356203,0.427822974,99.32169621,0.60886511,17.09991092,96.21137531391987
+1967,M,lauroyl acyltransferase,lauroyl acyltransferase,Lipopolysaccharide biosynthesis,0.70397456,0.427572269,0,0.60942795,5,5.085732113079997
+2064,I,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,cardiolipin biosynthesis I,0.70414435,0.427469169,18.57110273,0.70508699,5,16.969056397919974
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,0.7043081,0.427369783,26.20338608,0.46061323,5,27.242876472000034
+2013,U,transporter MotA/TolQ/ExbB proton channel familyprotein,transporter MotA/TolQ/ExbB proton channel familyprotein,Others,0.70442121,0.42730116,46.99398798,0.62464032,6.974521324,32.99810155170997
+1840,O,groEL,groEL,RNA degradation,0.70480447,0.427068801,100,0.62840497,5.410949576,81.53118233
+1835,U,preprotein translocase subunit SecD,preprotein translocase subunit SecD,Others,0.70481024,0.427065305,98.14229833,0.4070093,15.04374632,98.04352010729995
+1352,L,gyrB,gyrB,DNA Replication,0.704888676,0.427017783,98.69084083,0.51823086,14.8806053,92.72764477799994
+2007,V,ATP-binding protein,ATP-binding protein,,0.70507758,0.426903377,100,0.51934675,15.94359246,87.77661623
+1486,S,membrane protein,membrane protein,Biosynthesis of secondary metabolites/cofactors,0.70508746,0.426897395,100,0.56835117,5,98.92499004
+2016,J,lysine--tRNA ligase,lysine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.70517964,0.426841592,43.60443696,0.60519792,6.421500982,48.40603348953999
+1453,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,0.7055214,0.426634826,15.67020575,0.63238841,5,38.85771024500002
+1488,F,adenylosuccinate lyase,adenylosuccinate lyase,adenosine ribonucleotides <i>de novo</i> biosynthesis,0.70558311,0.426597513,100,0.39648431,8.582832176,99.51101156
+2006,R,hypothetical protein,hypothetical protein,Others,0.70562905,0.426569739,41.57110321,0.6017098,7.421858565,43.10706948345995
+1871,C,drug:proton antiporter,drug:proton antiporter,Others,0.70610961,0.426279427,61.88157881,0.480926,5.471783409,59.68872497224003
+1914,C,ATP synthase subunit delta,ATP synthase subunit delta,Metabolic pathways,0.70615488,0.426252099,95.04480759,0.23661413,5,70.81385758760008
+1859,,hypothetical protein,hypothetical protein,Others,0.7062398,0.426200846,36.83477049,0.6119132,5.181502318,42.298183998530064
+1850,P,sulfonate ABC transporter substrate-binding protein,sulfonate ABC transporter substrate-binding protein,Others,0.67652577,0.444920228,57.55275366,0.55087547,5.18921282,57.40363664
+1832,L,0,,Others,0.7065331,0.426023919,41.38011587,0.51061161,5,39.63141448869998
+1384,C,NADH dehydrogenase,NADH dehydrogenase,Others,0.706796307,0.42586527,83.57690527,0.592801998,5,74.51654939635986
+2020,S,"UDP-2,3-diacylglucosamine hydrolase","UDP-2,3-diacylglucosamine hydrolase",Lipopolysaccharide biosynthesis,0.70691476,0.42579391,0,0.65889236,5,3.694389526540001
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.706944605,0.425775935,18.67554884,0.58754314,5,18.86734680019997
+1928,S,sporulation protein,sporulation protein,,0.70701723,0.425732199,73.92290249,0.62108628,5,55.598409651199944
+1959,G,N-acylglucosamine 2-epimerase,N-acylglucosamine 2-epimerase,Amino sugar and nucleotide sugar metabolism,0.70752009,0.425429616,0,0.61755287,10.24121729,2.3277782043200004
+1408,K,0,0,Metabolic pathways,0.707938245,0.425178329,98.11669791,0.511440711,11.6106781,97.64964218429992
+1406,K,0,0,Metabolic pathways,0.707964661,0.425162464,84.24190034,0.493526069,5,78.25710323108004
+1377,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.708017345,0.425130828,0,0.618689807,5,11.013531280188888
+1985,R,ABC transporter,ABC transporter,ABC transporters,0.70863655,0.424759349,91.09904091,0.63679636,5.077843038,66.38836322879008
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",0.70927534,0.424376801,96.65165229,0.10530321,5,95.93061780670008
+1870,,methylamine utilization protein MauE,methylamine utilization protein MauE,Others,0.70979514,0.42406602,36.79619734,0.55549841,5.852308001,46.31658804509999
+1865,I,3-oxoacyl-ACP reductase,3-oxoacyl-ACP reductase,Biosynthesis of unsaturated fatty acids,0.70988415,0.424012848,68.00799087,0.60570295,6.954768789,58.44546883
+2054,S,hypothetical protein,hypothetical protein,Others,0.70992754,0.423986933,0,0.68245574,5,7.2903195406000005
+1845,M,3-deoxy-D-manno-octulosonic acid transferase,3-deoxy-D-manno-octulosonic acid transferase,Lipopolysaccharide biosynthesis,0.71011171,0.42387697,0,0.57582149,7.91279509,16.454292441879996
+1398,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Chromosome and associated proteins,0.7101248,0.423869157,100,0.40374745,5,88.33165550129998
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,0.71023817,0.423801497,63.62908557,0.468896047,5,64.98816920879993
+1838,O,0,,Others,0.71044249,0.423679614,97.36499986,0.55022056,5,75.45123529640011
+1367,C,ATP synthase subunit gamma,ATP synthase subunit gamma,ATP biosynthesis,0.710549769,0.423615647,89.23575209,0.6,5,64.77264166791002
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,0.710593153,0.423589784,63.62908557,0.468896047,5,64.98816920879993
+1454,I,acetyl-CoA carboxylase carboxyltransferase subunit alpha,acetyl-CoA carboxylase carboxyltransferase subunit alpha,Biosynthesis of antibiotics,0.71061015,0.423579652,98.72601367,0.61517576,13.40669002,66.24214008463996
+1849,E,lysine transporter LysE,lysine transporter LysE,Others,0.71091397,0.423398629,0,0.62086624,5,26.768477680100013
+1829,J,0,,Others,0.71102577,0.423332054,87.28467311,0.40399082,5,82.86406493859994
+1847,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,Metabolic pathways,0.71133708,0.423146787,53.54553611,0.38816243,5,48.79782818359999
+1917,,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,Others,0.71134955,0.423139369,3.262682678,0.63762793,5,4.464033360279993
+1984,,0,,Phosphotransferase system (PTS),0.71164472,0.422963863,37.94139745,0.5926114,5.961202367,38.09452153089996
+1915,,hypothetical protein,hypothetical protein,Others,0.71185293,0.42284015,32.11887821,0.63410394,5.490858533,34.69517263498996
+1972,,hypothetical protein,hypothetical protein,Others,0.71192157,0.422799382,0,0.61660516,6.452627576,9.484180357090002
+1980,E,ribose-phosphate diphosphokinase,ribose-phosphate diphosphokinase,Biosynthesis of amino acids,0.71204168,0.422728063,0,0.58774447,5,14.168020727600005
+2019,J,tryptophanyl-tRNA synthetase,tryptophanyl-tRNA synthetase,,0.71238229,0.422525945,100,0.35822923,15.72090918,98.54894499
+1852,I,3-alpha-hydroxysteroid dehydrogenase,3-alpha-hydroxysteroid dehydrogenase,Metabolic pathways,0.71240064,0.422515061,29.46099646,0.61501012,6.242095973,29.11101350499997
+1486,S,membrane protein,membrane protein,Biosynthesis of secondary metabolites/cofactors,0.7126439,0.422370836,100,0.56835117,5,98.92499004
+2039,J,histidine--tRNA ligase,histidine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.71276208,0.422300805,98.22940936,0.45113842,15.74996811,97.83836762
+1996,F,adenylate kinase,adenylate kinase,Biosynthesis of antibiotics,0.71293308,0.422199514,0.398857753,0.59134321,5,23.863068906349962
+1872,,cytochrome C,cytochrome C,Others,0.71332416,0.421968043,21.2642296,0.53281619,5,36.244480352299945
+1932,K,AsnC family transcriptional regulator,AsnC family transcriptional regulator,Others,0.71358128,0.421815998,22.41975721,0.61280987,6.956458761,30.530036686500022
+1412,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,0.713860231,0.421651168,97.98635244,0.560417375,5,80.17261047629994
+2003,H,pantothenate synthetase,pantothenate synthetase,beta-Alanine metabolism,0.71443209,0.421313662,44.4027611,0.59298896,8.435493119,39.588984965230026
+1930,I,acetyl-CoA carboxylase carboxyltransferase subunit beta,acetyl-CoA carboxylase carboxyltransferase subunit beta,3-hydroxypropanoate cycle,0.7145973,0.421216257,100,0.62448534,5,87.07402008
+1988,E,"D,D-heptose 1,7-bisphosphate phosphatase","D,D-heptose 1,7-bisphosphate phosphatase",,0.7149748,0.420993859,100,0.66611692,5,82.81912146999996
+2026,E,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase","2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",Biosynthesis of amino acids,0.71529154,0.420807437,84.28093645,0.56579319,7.032079327,79.91294783819994
+1878,G,sugar ABC transporter,sugar ABC transporter,ABC transporters,0.71539552,0.420746275,5.753044413,0.62680667,5,14.282402381119995
+1861,,hypothetical protein,hypothetical protein,Others,0.71550505,0.420681867,0,0.60543004,5.147051009,19.98010807
+1923,,hypothetical protein,hypothetical protein,Others,0.71551379,0.420676728,49.28559644,0.63292115,5.090813881,47.853229769219986
+1911,J,rplL,rplL,Ribosome biogenesis,0.71563454,0.420605747,59.19854281,0.7093591,5.998913715,46.57776541
+2061,G,glmM,glmM,Amino sugar and nucleotide sugar metabolism,0.71585398,0.420476813,11.30523059,0.67952185,5,14.188255075199995
+1976,H,lipoyl synthase,lipoyl synthase,lipoate biosynthesis and incorporation (yeast),0.71594928,0.420420843,100,0.12393969,23.67013559,92.14610848520002
+1410,L,DNA gyrase subunit A,DNA gyrase subunit A,DNA Replication,0.716017951,0.420380522,48,0.630205629,5,44.2
+1869,K,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,,0.71720816,0.419682899,0,0.57532632,5,18.74574986575999
+1863,M,porin,porin,Others,0.71721867,0.419676749,43.05293006,0.61473697,5,38.058656584500035
+2023,,MFS transporter,MFS transporter,,0.71736917,0.419588704,0,0.61551665,8.328723261,5.579667491
+1933,C,sdhB,sdhB,Biosynthesis of antibiotics,0.71744552,0.419544051,0,0.62987254,5,25
+1944,T,LuxR family transcriptional regulator,LuxR family transcriptional regulator,Others,0.71747687,0.419525719,0,0.64082006,5,20.876398104400003
+1946,,flagellin N-methylase,flagellin N-methylase,Others,0.71802868,0.419203311,18.07088755,0.62819411,5.508899874,32.612206832129964
+1867,,0,,Others,0.71802965,0.419202745,38.05050221,0.55651324,5,31.339423217000043
+1389,C,NADH dehydrogenase,NADH dehydrogenase,Others,0.718404759,0.418983861,47,0.6,5,64.77264166791002
+1514,H,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE,Biosynthesis of secondary metabolites,0.71849424,0.418931681,52.76685384,0.5,5,58.324149233920046
+1947,P,rhodanese,rhodanese,Others,0.71867767,0.418824756,70.56265985,0.63372844,5,57.914582734080014
+1858,,hypothetical protein,hypothetical protein,Others,0.7186966,0.418813725,77.77861446,0.61313866,6.922180034,63.189318381150116
+2022,L,DNA polymerase,DNA polymerase,Others,0.71889334,0.418699108,100,0.32168249,15.85279699,96.3739559
+1949,,hypothetical protein,hypothetical protein,,0.71917244,0.418536617,100,0.6229235,5.386196928,86.05776843183001
+1931,E,aspartate-semialdehyde dehydrogenase,aspartate-semialdehyde dehydrogenase,2-Oxocarboxylic acid metabolism,0.71936746,0.418423152,33.8359638,0.63704337,5.233603078,44.61938279938005
+1462,O,thioredoxin reductase,thioredoxin reductase,Pyrimidine metabolism,0.71937555,0.418418446,76.1313394,0.44053602,12.01597507,79.23254914699993
+1843,M,"dTDP-4-dehydrorhamnose 3,5-epimerase","dTDP-4-dehydrorhamnose 3,5-epimerase",Biosynthesis of secondary metabolites/cofactors,0.71942137,0.418391797,48.55110219,0.62896753,5,43.31865550810006
+1999,H,phosphopantothenate synthase,phosphopantothenate synthase,Metabolic pathways,0.71947936,0.418358075,14.58232352,0.63805299,5,11.221746227700017
+1418,J,leuS,leuS,Aminoacyl-tRNA biosynthesis,0.719526569,0.418330626,9.254482883,0.609148194,5,13.961568735620016
+1842,M,glucose-1-phosphate thymidylyltransferase,glucose-1-phosphate thymidylyltransferase,Acarbose and validamycin biosynthesis,0.71968535,0.418238332,100,0.647848,5,87.88240127
+2021,D,tRNA(Ile)-lysidine synthetase,tRNA(Ile)-lysidine synthetase,Others,0.7197486,0.418201578,96.37029396,0.13015712,15.7825481,80.82207781406989
+2004,S,segregation and condensation protein A,segregation and condensation protein A,Others,0.71977805,0.418184467,0,0.65309409,7.499155752,13.640944735239996
+1864,Q,cysteine hydrolase,cysteine hydrolase,Others,0.72056257,0.417729164,62.60025972,0.59133164,7.389814989,52.30143990635001
+2063,E,N-succinylarginine dihydrolase,N-succinylarginine dihydrolase,Arginine and proline metabolism,0.72063614,0.417686518,0,0.6255817,6.523547931,7.994012456899998
+1908,J,fusA,fusA,Translation factors,0.72079443,0.417594792,0,0.66404015,5,19.924633932000003
+2045,C,dihydrolipoamide succinyltransferase,dihydrolipoamide succinyltransferase,2-oxoglutarate decarboxylation to succinyl-CoA,0.72094045,0.417510212,1.817966623,0.60734205,6.515457695,25.13784425127999
+1364,C,ATP synthase subunit b,ATP synthase subunit b,,0.72098525,0.417484269,100,0.642597049,5,69.60699999999997
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.721165083,0.417380163,5.243501636,0.64444635,5,8.250761571
+1936,J,aminoglycoside phosphotransferase APH(3'),aminoglycoside phosphotransferase APH(3'),Others,0.72136591,0.417263965,0,0.62262574,7.20303392,5.719946396749999
+1942,,hypothetical protein,hypothetical protein,,0.72144601,0.417217638,100,0.62414094,5,87.27942139320001
+1481,F,ribonucleoside-diphosphate reductase subunit alpha,ribonucleoside-diphosphate reductase subunit alpha,adenosine deoxyribonucleotides de novo biosynthesis,0.72151764,0.417176218,97.20241684,0.45206323,9.35851257,94.98194760110013
+1907,J,50S ribosomal protein L29,50S ribosomal protein L29,Ribosome biogenesis,0.72191487,0.416946669,100,0.40823634,13.54935165,93.41474576
+1846,K,N utilization substance protein B homolog,N utilization substance protein B homolog,Others,0.72193268,0.416936382,79.57932681,0.207813,7.587449999,77.43853733369991
+1981,,ipk,ipk,Others,0.72218655,0.416789817,0,0.65069845,5,12.140999155490004
+1929,H,folylpolyglutamate synthase,folylpolyglutamate synthase,Folate biosynthesis,0.72286604,0.416398037,19.04838431,0.62516996,5,38.91952591480003
+1648,O,hscB,hscB,Others,0.72298997,0.416326661,92.38993711,0.28985925,14.53570773,91.59789677329991
+1464,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,0.72327603,0.416162001,85.72820715,0.54970272,14.60657936,79.90038235240011
+1391,C,NADH dehydrogenase,NADH dehydrogenase,Others,0.723785091,0.415869301,12.30337411,0.659415863,5,11.896060616500012
+1457,F,uridylate kinase,uridylate kinase,Metabolic pathways,0.72384074,0.415837329,97.80995133,0.62306516,18.2960361,94.57430817152012
+1922,E,4-hydroxyproline 2-epimerase,4-hydroxyproline 2-epimerase,Arginine and proline metabolism,0.72388841,0.415809945,4.102593835,0.61188506,7.303661447,17.388339621700013
+1866,I,3-oxoacyl-ACP reductase,3-oxoacyl-ACP reductase,Biosynthesis of unsaturated fatty acids,0.72394338,0.415778372,76.30132823,0.56016914,7.051730601,75.30714677179992
+1617,,50S ribosomal protein L34,50S ribosomal protein L34,Ribosome biogenesis,0.724201,0.415630467,90.00189559,0.0804634,13.10896292,88.73210841399988
+1868,,mucin,mucin,,0.72422273,0.415617996,100,0.60239046,6.518593206,72.22126328679002
+1920,,Fis family transcriptional regulator,Fis family transcriptional regulator,Others,0.72442392,0.415502569,0,0.62660778,5,15.047772874879998
+2047,J,phenylalanyl-tRNA synthetase subunit beta,phenylalanyl-tRNA synthetase subunit beta,Aminoacyl-tRNA biosynthesis,0.72456793,0.415419987,0,0.6503632,6.242072145,3.9338627585999983
+1903,J,30S ribosomal protein S11,30S ribosomal protein S11,Ribosome biogenesis,0.72483017,0.41526969,55.55801472,0.66198345,5,37.465629
+1456,L,DNA topoisomerase III,DNA topoisomerase III,DNA Replication,0.72491701,0.415219944,15.07199851,0.38497156,20.82654241,44.54051392
+1884,,hypothetical protein,hypothetical protein,Others,0.72563646,0.414808264,68.55297702,0.60384503,7.333594039,57.414513854670034
+1837,G,0,,Others,0.72600852,0.414595685,82.18129005,0.23960185,5.826406151,83.46220987379998
+1473,M,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosaminedeacetylase,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosaminedeacetylase,Lipopolysaccharide biosynthesis,0.72662528,0.414243776,4.652103959,0.66097355,5,18.982983
+2031,R,folate-binding protein,folate-binding protein,Others,0.7266599,0.414224041,0,0.65029738,6.182878367,3.633667112399999
+1385,C,NADH dehydrogenase,NADH dehydrogenase,Others,0.726833239,0.414125254,65.72050694,0.482893723,5,54.34093589579999
+1989,E,"D,D-heptose 1,7-bisphosphate phosphatase","D,D-heptose 1,7-bisphosphate phosphatase",Lipopolysaccharide biosynthesis,0.72751757,0.413735712,100,0.64030386,14.23812122,93.98021480556002
+1483,E,aroE,aroE,Biosynthesis of amino acids,0.72789913,0.413518835,0,0.6185718,5,3.483456280188889
+1472,H,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase","2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase",,0.72818992,0.413353703,2.159663164,0.65448914,5,8.084451981979996
+1388,C,NADH dehydrogenase,NADH dehydrogenase,Others,0.728390927,0.413239634,14.15977752,0.647081064,5.488948471,25.6126909
+1937,K,0,,Others,0.72852369,0.413164327,0,0.63102577,12.21743208,15.149876336900004
+1836,U,preprotein translocase subunit SecD,preprotein translocase subunit SecD,Others,0.7289136,0.412943317,100,0.35925842,10.46252736,96.09873671049999
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.72919346,0.412784832,5.243501636,0.64444635,5,8.250761571
+2002,R,permease,permease,,0.72941409,0.412659975,15.36560767,0.60845774,7.79093329,23.437687382429964
+2027,J,ribosome-recycling factor,ribosome-recycling factor,Others,0.72962569,0.412540299,92.67178033,0.42288765,16.36347925,90.86664289299992
+1857,,hypothetical protein,hypothetical protein,Others,0.72968825,0.412504929,68.48666652,0.58350754,5,61.13909540429998
+1993,M,N-acetylmuramoyl-L-alanine amidase,N-acetylmuramoyl-L-alanine amidase,Others,0.72990853,0.412380439,33.3052602,0.63481111,8.055359002,40.10428074099993
+2028,J,ribosome-recycling factor,ribosome-recycling factor,Others,0.73031718,0.412149691,95.97630719,0.45202871,16.28809819,87.95839221
+1966,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,0.73037965,0.412114439,26.20338608,0.46061323,5,27.242876472000034
+1919,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Others,0.73124282,0.411627973,100,0.61684928,5,80.76935285773338
+1397,D,chromosome partitioning protein ParA,chromosome partitioning protein ParA,Chromosome and associated proteins,0.73149684,0.411485031,24,0.68295046,5,16.170319540599998
+1484,H,thiamine monophosphate kinase,thiamine monophosphate kinase,Metabolic pathways,0.7315558,0.411451867,71.51413723,0.30016676,5.338886514,71.66812419640014
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.73186107,0.411280245,25.52364084,0.46800837,5,27.04785862920005
+1399,D,chromosome partitioning protein ParA,chromosome partitioning protein ParA,Chromosome and associated proteins,0.73213033,0.411128986,87.44897959,0.49127805,5,79.50695204479996
+2051,L,DNA-dependent helicase,DNA-dependent helicase,Mismatch repair,0.73218592,0.411097771,36.07455837,0.6489821,8.778617204,37.58879428090998
+2046,L,integration host factor subunit alpha,integration host factor subunit alpha,Others,0.73224898,0.411062368,47.66653027,0.57818865,7.012188826,38.342510008379975
+2033,L,primosomal replication protein N,primosomal replication protein N,,0.73246,0.410943942,0,0.47021454,9.009167425,34.81366404149999
+2034,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,0.73272441,0.41079565,34.52252097,0.6107019,7.199044866,34.57346656101003
+1882,,hypothetical protein,hypothetical protein,Others,0.73284633,0.410727308,42.61533213,0.56731777,5,36.78470930459996
+1390,C,NADH dehydrogenase,NADH dehydrogenase,Others,0.732965863,0.410660326,58.55705119,0.665091732,5,60.568428786399934
+1971,H,diguanylate cyclase,diguanylate cyclase,6-hydroxymethyl-dihydropterin diphosphate biosynthesis I,0.73301498,0.410632809,46.08695652,0.63430979,10.71567861,42.79415510540002
+1881,U,pilus assembly protein,pilus assembly protein,Others,0.73312913,0.410568872,0,0.61835908,7.994418604,9.517032210559995
+2029,I,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase","2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",Biosynthesis of antibiotics,0.73318743,0.410536225,68.794926,0.33777568,9.130333656,72.68896747509989
+2062,L,"exodeoxyribonuclease V, gamma subunit","exodeoxyribonuclease V, gamma subunit",Homologous recombination,0.73401921,0.410071012,11.47536202,0.6595391,6.232524643,14.111149139189981
+2030,D,intracellular septation protein A,intracellular septation protein A,Others,0.73443713,0.409837667,15.02477123,0.57876717,6.872294867,27.99626886
+1374,L,Holliday junction DNA helicase,Holliday junction DNA helicase,,0.73446023,0.409824777,63.62908557,0.468896047,5,64.98816920879993
+1482,I,acetyl-CoA carboxylase biotin carboxylase,acetyl-CoA carboxylase biotin carboxylase,Fatty acid biosynthesis,0.73457808,0.409759028,71.33423383,0.54533275,13.7697309,68.69904045149998
+1487,G,2-dehydro-3-deoxyphosphogluconate aldolase,2-dehydro-3-deoxyphosphogluconate aldolase,"3,6-anhydro-&alpha;-L-galactopyranose degradation",0.73495592,0.409548371,100,0.63055592,5,89.28
+1378,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.73554961,0.409217809,5.243501636,0.64444635,5,8.250761571
+1904,U,secY,secY,Bacterial secretion system,0.73582971,0.409062037,62.94642857,0.65416171,5.784040461,51.843927214699995
+1455,F,tmk,tmk,Metabolic pathways,0.73604075,0.408944749,75.38342347,0.44133418,12.46461496,78.96050566969988
+2038,O,thioredoxin,thioredoxin,Others,0.73622099,0.408844632,7.06884058,0.63743142,6.271056628,9.544122870600015
+1833,C,0,,Others,0.73633257,0.408782678,74.8110317,0.68680807,5,46.23382166250002
+1964,D,rod shape-determining protein MreB,rod shape-determining protein MreB,Others,0.73636522,0.408764553,43.11676371,0.62664595,5,28.10635713326004
+1830,J,0,,Others,0.73717218,0.408317091,100,0.24765721,6.275289144,94.45978663
+2055,,hypothetical protein,hypothetical protein,Others,0.73720416,0.408299378,0,0.684366,5,6.965377552
+1465,J,glutamyl-tRNA(Gln) amidotransferase subunit A,glutamyl-tRNA(Gln) amidotransferase subunit A,Aminoacyl-tRNA biosynthesis,0.73740076,0.40819052,85.90068298,0.62296171,20.34735989,88.67829688482009
+1862,,hypothetical protein,hypothetical protein,Others,0.73752445,0.408122063,67.29985255,0.61789512,6.710768492,60.98718578619999
+1458,R,obgE,obgE,Ribosome biogenesis biogenesis,0.73767839,0.408036895,61.41304348,0.21160028,11.39319869,64.27382203399996
+0,,0,,,0.73838678,0.407645435,100,0.70859701,8,71.32272986531001
+2041,,0,,Others,0.73849616,0.407585058,0,0.63539763,7.179177648,15.837652932159997
+2037,K,rho,rho,RNA degradation,0.73916794,0.407214631,0,0.63830491,6.318674539,7.084721940600002
+1375,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.73935177,0.407113383,25.52364084,0.46800837,5,27.04785862920005
+1909,J,30S ribosomal protein S7,30S ribosomal protein S7,Ribosome biogenesis,0.73951448,0.407023808,37.26672282,0.67282874,5.508363606,40.09665624629994
+1656,J,elongation factor Ts,elongation factor Ts,Others,0.73957893,0.406988339,98.81526761,0.20570224,15.56023271,87.95611928519996
+1460,E,chorismate synthase,chorismate synthase,Biosynthesis of amino acids,0.74004073,0.40673437,57.35464443,0.46676883,15.62286438,65.39665204869999
+1472,H,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase","2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase",,0.7412269,0.406083481,2.159663164,0.65448914,5,8.084451981979996
+2042,H,precorrin-4 C11-methyltransferase,precorrin-4 C11-methyltransferase,"cob(II)yrinate <i>a,c</i>-diamide biosynthesis I (early cobalt insertion)",0.74157323,0.405893832,96.65165229,0.10530321,5,95.93061780670008
+2035,G,polysaccharide deacetylase,polysaccharide deacetylase,Others,0.7417938,0.405773141,0,0.62844262,6.479006247,11.67746625
+1892,M,hypothetical protein,hypothetical protein,Others,0.74228099,0.405506815,18.37845793,0.58887959,5,14.843970851799991
+2049,,translation initiation factor IF-3,translation initiation factor IF-3,Others,0.74310253,0.405058505,25.63686079,0.61100071,10.90032399,27.470236990149964
+1466,M,bifunctional protein GlmU,bifunctional protein GlmU,Amino sugar and nucleotide sugar metabolism,0.74363484,0.404768555,87.71613108,0.64309911,15.01160103,90.97065398680006
+1461,H,ferrochelatase,ferrochelatase,,0.74386109,0.404645443,100,0.3594568,5.333335786,84.50447931560001
+1467,J,tyrosyl-tRNA synthetase,tyrosyl-tRNA synthetase,Aminoacyl-tRNA biosynthesis,0.74562709,0.40368705,65.16259675,0.53518635,14.11420735,67.78393338450006
+1918,K,chromosome partitioning protein ParB,chromosome partitioning protein ParB,Others,0.74632718,0.403308372,56.05962388,0.70888616,5,38.873288064379956
+1873,E,sarcosine oxidase delta subunit family protein,sarcosine oxidase delta subunit family protein,creatinine degradation II,0.74825232,0.402270721,17.53905948,0.55067051,5,43.52287362420003
+1376,L,Holliday junction DNA helicase,Holliday junction DNA helicase,Ribosome biogenesis,0.74849509,0.402140247,18.67554884,0.58754314,5,18.86734680019997
+1879,G,xylose isomerase,xylose isomerase,Fructose and mannose metabolism,0.74885196,0.401948604,13.65330848,0.60478045,5,12.133672979800002
+2052,O,transcriptional regulator,transcriptional regulator,Others,0.74904027,0.401847554,21.06224066,0.60481572,9.192691895,25.706338332400026
+1532,H,"glutamate-1-semialdehyde 2,1-aminomutase","glutamate-1-semialdehyde 2,1-aminomutase",Biosynthesis of secondary metabolites,0.74988931,0.401392574,8.427625583,0.50316585,5,24.527182637180005
+1848,P,ABC transporter,ABC transporter,Sulfur metabolism,0.75042767,0.401104613,47.57222106,0.69270055,6.077406975,40.18976586917004
+1887,G,ribokinase,ribokinase,Pentose phosphate pathway,0.7507959,0.40090789,57.05533151,0.60752167,5,49.078488600989985
+2036,,4-amino-4-deoxy-L-arabinose transferase,4-amino-4-deoxy-L-arabinose transferase,Others,0.75724167,0.397495294,33.3362476,0.60480602,9.401346178,30.712688848900044
+1459,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,Metabolic pathways,0.75834314,0.396917944,54.490321,0.2824397,5.001807964,57.648812288500096
+1895,O,glutathione S-transferase,glutathione S-transferase,Others,0.75888136,0.396636439,40.5063533,0.60361738,5,33.659263529400015
+1888,E,eutB,eutB,Biosynthesis of amino acids,0.76193851,0.395045002,68.24828681,0.61973935,5,54.80568397093328
+2040,R,competence protein ComL,competence protein ComL,Others,0.76284352,0.394576335,8.915161231,0.6879124,7.169825651,20.75584202016998
+2059,S,hypothetical protein,hypothetical protein,Others,0.76606775,0.39291564,72.32573414,0.6345858,7.838776638,53.792278303370004
+1469,F,thyA,thyA,folate transformations II,0.7676642,0.392098524,51.69604356,0.67770032,5.949564355,42.159438552309965
+1433,H,porphobilinogen deaminase,porphobilinogen deaminase,,0.77448605,0.388644831,0,0.55483118,5,12.74383877
+1893,C,ubiquinone biosynthesis hydroxylase UbiH,ubiquinone biosynthesis hydroxylase UbiH,Others,0.7750766,0.388348713,75.55506484,0.62646438,5,48.19327505
+2048,J,rplT,rplT,Ribosome biogenesis,0.77763556,0.387070776,36,0.64337151,6.947186929,38.768998163039996
+1463,M,UDP phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,UDP phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase,Others,0.7873352,0.382302227,23.21835898,0.29656555,7.332753083,43.249138779270005
+1443,K,Cro/Cl family transcriptional regulator,Cro/Cl family transcriptional regulator,Others,0.79791656,0.377232426,70.87339744,0.54171185,11.07316602,62.03388259092009
+1531,H,diaminohydroxyphosphoribosylaminopyrimidine deaminase,diaminohydroxyphosphoribosylaminopyrimidine deaminase,,0.82010608,0.36702569,75,0.45671312,5,68.91077337490002
+1533,O,thioredoxin reductase,thioredoxin reductase,Pyrimidine metabolism,0.82414904,0.365225202,33.50875028,0.48901566,5,49.749414726199994
+1521,E,diaminopimelate epimerase,diaminopimelate epimerase,Biosynthesis of amino acids,0.82502796,0.36483612,19.66999566,0.51983306,5,41.479857299700036
+1525,R,obgE,obgE,,0.83739845,0.359446569,100,0.46579398,5,92.55236408399998
+1564,J,serine--tRNA ligase,serine--tRNA ligase,Aminoacyl-tRNA biosynthesis,0.720193909,1.450469155,92.22342876,0.119857613,24,88.35345918
+2017,V,ABC transporter ATP-binding protein,ABC transporter ATP-binding protein,ABC transporters,0.85395253,0.352478609,91.01945466,0.47121664,16.37587664,84.11519363359989
+1524,L,DNA polymerase III subunit delta',DNA polymerase III subunit delta',DNA Replication,1.34868786,0.223179884,96.94347176,0.38688773,5,78.56317942669997
+2018,M,2-dehydro-3-deoxyphosphooctonate aldolase,2-dehydro-3-deoxyphosphooctonate aldolase,CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis,1.63063611,0.18459054,93.00926909,0.39807268,16.24038353,94.50523258170004
+1523,T,diguanylate cyclase,diguanylate cyclase,Others,1.6761602,0.179577107,1.090694244,0.49435014,5,28.455552037680008
+1534,O,thioredoxin reductase,thioredoxin reductase,Pyrimidine metabolism,1.71371234,0.17564208,23,0.6580743,5,15.659204936739998
